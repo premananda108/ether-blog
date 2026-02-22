@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+
+// 1. Эта функция говорит Astro, какие страницы нужно создать
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  
+  return posts.map(post => ({
+    params: { slug: post.slug }, // slug — это путь (например, ru/atom-structure-part-1)
+    props: post,
+  }));
+}
+
+// 2. Получаем данные для текущей страницы
+const post = Astro.props;
+const { Content } = await post.render();
+---
+
+<!-- 3. Шаблон HTML (как будет выглядеть страница) -->
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <title>{post.data.title}</title>
+  </head>
+  <body>
+    <main style="max-width: 800px; margin: 0 auto; padding: 20px;">
+      <!-- Картинка-обложка -->
+      {post.data.heroImage && <img src={post.data.heroImage} alt="" style="width:100%" />}
+      
+      <!-- Заголовок -->
+      <h1>{post.data.title}</h1>
+      
+      <!-- Текст статьи -->
+      <article>
+        <Content />
+      </article>
+    </main>
+  </body>
+</html>
