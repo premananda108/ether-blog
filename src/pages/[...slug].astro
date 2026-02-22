@@ -1,19 +1,19 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 
 // 1. Эта функция говорит Astro, какие страницы нужно создать
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
   
   return posts.map(post => ({
-    params: { slug: post.slug }, // slug — это путь (например, ru/atom-structure-part-1)
+    params: { slug: post.data.slug || post.id }, // Используем post.data.slug (например, atom-structure-part-1) или fallback на post.id
     props: post,
   }));
 }
 
 // 2. Получаем данные для текущей страницы
 const post = Astro.props;
-const { Content } = await post.render();
+const { Content } = await render(post);
 ---
 
 <!-- 3. Шаблон HTML (как будет выглядеть страница) -->
