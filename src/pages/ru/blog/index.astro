@@ -7,7 +7,7 @@ import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
 const posts = (await getCollection('blog'))
-	.filter((post) => post.id.startsWith('en/'))
+	.filter((post) => post.id.startsWith('ru/'))
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
@@ -100,9 +100,11 @@ const posts = (await getCollection('blog'))
 		<main>
 			<section>
 				<ul>
-					{posts.map((post) => (
+					{posts.map((post) => {
+						const slugBase = post.data.slug || post.id.replace('ru/', '');
+						return (
 						<li>
-							<a href={`/${post.data.slug || post.id}`} class="glass-panel post-card">
+							<a href={`/ru/blog/${slugBase}`} class="glass-panel post-card">
 								{post.data.heroImage && (
 									<div class="img-wrapper">
 										<img src={post.data.heroImage} alt="" />
