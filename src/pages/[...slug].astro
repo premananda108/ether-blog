@@ -1,5 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
+import BlogPost from '../layouts/BlogPost.astro';
 
 // 1. Эта функция говорит Astro, какие страницы нужно создать
 export async function getStaticPaths() {
@@ -16,24 +17,6 @@ const post = Astro.props;
 const { Content } = await render(post);
 ---
 
-<!-- 3. Шаблон HTML (как будет выглядеть страница) -->
-<html lang="ru">
-  <head>
-    <meta charset="utf-8" />
-    <title>{post.data.title}</title>
-  </head>
-  <body>
-    <main style="max-width: 800px; margin: 0 auto; padding: 20px;">
-      <!-- Картинка-обложка -->
-      {post.data.heroImage && <img src={post.data.heroImage} alt="" style="width:100%" />}
-      
-      <!-- Заголовок -->
-      <h1>{post.data.title}</h1>
-      
-      <!-- Текст статьи -->
-      <article>
-        <Content />
-      </article>
-    </main>
-  </body>
-</html>
+<BlogPost {...post.data}>
+  <Content />
+</BlogPost>

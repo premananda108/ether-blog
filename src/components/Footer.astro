@@ -41,22 +41,26 @@ const today = new Date();
 </footer>
 <style>
 	footer {
-		padding: 2em 1em 6em 1em;
-		background: linear-gradient(var(--gray-gradient)) no-repeat;
-		color: rgb(var(--gray));
+		padding: 4rem 1rem;
+		background: var(--bg-main);
+		border-top: var(--glass-border);
+		color: var(--text-muted);
 		text-align: center;
+		font-size: 0.9em;
 	}
 	.social-links {
 		display: flex;
 		justify-content: center;
-		gap: 1em;
-		margin-top: 1em;
+		gap: 1.5rem;
+		margin-top: 1.5rem;
 	}
 	.social-links a {
 		text-decoration: none;
-		color: rgb(var(--gray));
+		color: var(--text-muted);
+		transition: var(--transition);
 	}
 	.social-links a:hover {
-		color: rgb(var(--gray-dark));
+		color: var(--accent);
+		filter: drop-shadow(var(--glow-accent));
 	}
 </style>

@@ -6,43 +6,102 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="ru">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			.hero-section {
+				text-align: center;
+				padding: 4rem 1rem;
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				gap: 1.5rem;
+			}
+			.tagline {
+				font-family: 'Fira Code', monospace;
+				color: var(--accent);
+				letter-spacing: 0.1em;
+				text-transform: uppercase;
+				font-size: 0.9rem;
+			}
+			h1 {
+				font-size: 4rem;
+				line-height: 1.1;
+				margin: 0;
+				max-width: 800px;
+			}
+			.subtitle {
+				font-size: 1.25rem;
+				color: var(--text-secondary);
+				max-width: 600px;
+				margin: 0 auto;
+			}
+			.cta-buttons {
+				display: flex;
+				gap: 1rem;
+				margin-top: 2rem;
+			}
+			.btn {
+				padding: 1rem 2rem;
+				border-radius: var(--radius);
+				font-weight: 600;
+				text-decoration: none;
+				transition: var(--transition);
+			}
+			.btn-primary {
+				background: var(--accent);
+				color: #000;
+				box-shadow: var(--glow-accent);
+			}
+			.btn-primary:hover {
+				background: #fff;
+				color: #000;
+				box-shadow: 0 0 40px rgba(255, 255, 255, 0.6);
+			}
+			.btn-secondary {
+				background: var(--bg-surface);
+				border: var(--glass-border);
+				color: #fff;
+			}
+			.btn-secondary:hover {
+				background: var(--bg-surface-solid);
+				border-color: rgba(255,255,255,0.2);
+			}
+			
+			.features {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+				gap: 2rem;
+				margin-top: 4rem;
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This template
-				serves as a lightweight, minimally-styled starting point for anyone looking to build a personal
-				website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to
-				<a href="https://docs.astro.build/">read the docs</a>
-				or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out
-				<a href="https://github.com/Charca/astro-blog-template">astro-blog-template</a>
-				by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+			<section class="hero-section">
+				<span class="tagline">Альтернативная физика</span>
+				<h1><span class="gradient-text">Эфиродинамика</span> и структура материи</h1>
+				<p class="subtitle">
+					Исследуем, как устроен наш мир на фундаментальном уровне. Забудьте про вероятности — добро пожаловать в инженерный подход к строению атома.
+				</p>
+				<div class="cta-buttons">
+					<a href="/atom-structure-part-1" class="btn btn-primary">Начать чтение</a>
+					<a href="/blog" class="btn btn-secondary">Все статьи</a>
+				</div>
+			</section>
+			
+			<section class="features">
+				<div class="glass-panel">
+					<h3>🔭 Прямые наблюдения</h3>
+					<p>Мы анализируем реальные снимки атомов, полученные квантовыми микроскопами, а не математические абстракции.</p>
+				</div>
+				<div class="glass-panel">
+					<h3>🌪️ Теория вихрей</h3>
+					<p>Эфир возвращается. Узнайте, почему материя — это устойчивый тороидальный вихрь в сверхплотной среде.</p>
+				</div>
+			</section>
 		</main>
 		<Footer />
 	</body>
