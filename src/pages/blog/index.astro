@@ -7,12 +7,12 @@ import Header from '../../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 
 const posts = (await getCollection('blog'))
-	.filter((post) => post.id.startsWith('en/'))
+	.filter((post) => post.data.lang === 'en')
 	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
 <!doctype html>
-<html lang="ru">
+<html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
@@ -100,9 +100,11 @@ const posts = (await getCollection('blog'))
 		<main>
 			<section>
 				<ul>
-					{posts.map((post) => (
+					{posts.map((post) => {
+						const slugBase = post.data.slug || post.id.replace('en/', '');
+						return (
 						<li>
-							<a href={`/${post.data.slug || post.id}`} class="glass-panel post-card">
+							<a href={`/blog/${slugBase}`} class="glass-panel post-card">
 								{post.data.heroImage && (
 									<div class="img-wrapper">
 										<img src={post.data.heroImage} alt="" />
@@ -116,7 +118,7 @@ const posts = (await getCollection('blog'))
 								</div>
 							</a>
 						</li>
-					))}
+					)})}
 				</ul>
 			</section>
 		</main>

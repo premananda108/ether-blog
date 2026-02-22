@@ -4,7 +4,7 @@ import BlogPost from '../../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
-	const enPosts = posts.filter(post => post.id.startsWith('en/') || !post.id.includes('/'));
+	const enPosts = posts.filter(post => post.data.lang === 'en');
 	return enPosts.map((post) => {
 		const slugBase = post.data.slug || post.id.replace('en/', '');
 		return {

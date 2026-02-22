@@ -1,52 +1,52 @@
 ---
-title: 'Строение атома. Эфиродинамика. Часть 1'
-description: 'Прямое наблюдение электронной орбитали. Почему вероятность — это костыль, и как выглядит атом на самом деле.'
+title: 'Atomic Structure. Ether Dynamics. Part 1'
+description: 'Direct observation of the electron orbital. Why probability is a crutch, and what an atom actually looks like.'
 pubDate: '2023-10-01'
 heroImage: '/images/part1-cover.jpg'
-lang: 'ru'
+lang: 'en'
 slug: 'atom-structure-part-1'
 ---
 
-**«Материя — это сгущённый свет»**
+**"Matter is condensed light"**
 
-Мы начинаем цикл статей, который перевернет ваше представление о том, как устроен мир на самом фундаментальном уровне. Забудьте скучные картинки из школьных учебников, где электроны летают вокруг ядра, как планеты. Забудьте и абстрактные «облака вероятности» квантовой механики.
+We are starting a series of articles that will overturn your understanding of how the world works at the most fundamental level. Forget the boring pictures from school textbooks where electrons fly around the nucleus like planets. Forget the abstract "probability clouds" of quantum mechanics.
 
-Реальность куда интереснее, логичнее и... инженернее.
+Reality is much more interesting, logical, and... engineered.
 
-## Кризис современной физики
+## The Crisis of Modern Physics
 
-Современная наука зашла в тупик. Квантовая механика прекрасно *считает*, но совершенно не *объясняет*.
-Нам говорят: «Электрон — это и частица, и волна, и вообще он размазан по орбитали». Но что это значит физически?
+Modern science has reached a dead end. Quantum mechanics *calculates* perfectly but *explains* absolutely nothing.
+We are told: "An electron is both a particle and a wave, and generally it is smeared across the orbital." But what does that mean physically?
 
-Если спросить профессора: «А из чего состоит сам электрон?», он ответит: «Это фундаментальная частица, у нее нет структуры».
-**Эфиродинамика утверждает обратное:** У всего есть структура. И у электрона, и у протона, и у самого пространства.
+If you ask a professor: "What is an electron itself made of?", he will answer: "It is a fundamental particle, it has no structure."
+**Ether dynamics claims the opposite:** Everything has a structure. The electron, the proton, and space itself.
 
-## Прямое наблюдение: Фотография водорода
+## Direct Observation: Photograph of Hydrogen
 
-Давайте посмотрим на факты. В 2013 году ученым удалось сделать прямой снимок атома водорода с помощью квантового микроскопа.
+Let's look at the facts. In 2013, scientists managed to take a direct shot of a hydrogen atom using a quantum microscope.
 
-![Снимок атома водорода](/images/hydrogen-photo.jpg)
-*Сравнение предсказания волновой функции (слева) и реального снимка (справа)*
+![Hydrogen atom image](/images/hydrogen-photo.jpg)
+*Comparison of the wave function prediction (left) and the real shot (right)*
 
-Что мы видим? Мы видим не хаотичное облако. Мы видим четкую структуру. Мы видим **тор** (бублик). Мы видим зоны плотности.
+What do we see? We don't see a chaotic cloud. We see a clear structure. We see a **torus** (donut). We see density zones.
 
-## Эфир возвращается
+## Ether Returns
 
-Чтобы объяснить эту структуру, нам нужно вернуть в физику понятие, которое несправедливо изгнали 100 лет назад — **Эфир**.
+To explain this structure, we need to bring back a concept to physics that was unfairly banished 100 years ago — **Ether**.
 
-Не как абстрактный «газ», а как сверхплотную, упругую среду, которая заполняет всё пространство.
-*   **Атом** — это не шарики в пустоте.
-*   **Атом** — это устойчивый вихрь в среде эфира.
+Not as an abstract "gas", but as a super-dense, elastic medium that fills all space.
+*   **An atom** is not balls in a void.
+*   **An atom** is a stable vortex in the ether medium.
 
-Представьте торнадо. Торнадо состоит из воздуха. Но торнадо — это не сам воздух, это *движение* воздуха.
-Точно так же и материя — это *движение* эфира.
+Imagine a tornado. A tornado consists of air. But a tornado is not the air itself, it is the *movement* of the air.
+In the same way, matter is the *movement* of the ether.
 
-### Что будет дальше?
+### What's next?
 
-В этом цикле мы пройдем путь от простейшего Водорода до сложных металлов. Мы построим ядра атомов, как конструктор LEGO, и вы увидите, что:
-1.  Таблица Менделеева — это не просто список, а инженерная схема.
-2.  Химические свойства зависят от геометрии ядра.
-3.  Инертные газы инертны не просто так (об этом в части про Неон).
+In this series, we will go from simple Hydrogen to complex metals. We will build atomic nuclei like a LEGO set, and you will see that:
+1.  The Periodic Table is not just a list, but an engineering diagram.
+2.  Chemical properties depend on the geometry of the nucleus.
+3.  Inert gases are inert for a reason (more on this in the part about Neon).
 
 ---
-*Читайте продолжение в следующей части: [Гелий, Литий и Бериллий](/ru/part-2-helium)*
+*Read the continuation in the next part: [Helium, Lithium and Beryllium](/blog/part-2-helium)*
