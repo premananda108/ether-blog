@@ -4,7 +4,6 @@ description: 'Direct observation of the electron orbital. Why probability is a c
 pubDate: '2023-10-01'
 heroImage: '/images/part1-cover.jpg'
 lang: 'en'
-slug: 'atom-structure-part-1'
 ---
 
 **"Matter is condensed light"**
