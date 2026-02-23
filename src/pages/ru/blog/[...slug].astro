@@ -1,26 +1,58 @@
 ---
-import { getCollection, render } from 'astro:content';
-import BlogPost from '../../../layouts/BlogPost.astro';
+import { getCollection, render, type CollectionEntry } from "astro:content";
+import BlogPost from "../../../layouts/BlogPost.astro";
+import PostNavigation from "../../../components/PostNavigation.astro";
 
 // 1. Эта функция говорит Astro, какие страницы нужно создать
 export async function getStaticPaths() {
-  const posts = await getCollection('blog');
-  const ruPosts = posts.filter(post => post.data.lang === 'ru');
-  
-  return ruPosts.map(post => {
-    const slugBase = post.data.slug || post.id.replace('ru/', '');
+  const posts = await getCollection("blog");
+  const ruPosts = posts
+    .filter((post) => post.data.lang === "ru")
+    .sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
+
+  return ruPosts.map((post, index) => {
+    const slugBase = post.data.slug || post.id.replace("ru/", "");
+
+    const prev = index > 0 ? ruPosts[index - 1] : null;
+    const next = index < ruPosts.length - 1 ? ruPosts[index + 1] : null;
+
     return {
       params: { slug: slugBase },
-      props: post,
-    }
+      props: {
+        post,
+        prev: prev
+          ? {
+              title: prev.data.title,
+              slug: `/ru/blog/${
+                prev.data.slug || prev.id.replace(/^ru\//, "")
+              }`,
+            }
+          : null,
+        next: next
+          ? {
+              title: next.data.title,
+              slug: `/ru/blog/${
+                next.data.slug || next.id.replace(/^ru\//, "")
+              }`,
+            }
+          : null,
+      },
+    };
   });
 }
 
+type Props = {
+  post: CollectionEntry<"blog">;
+  prev: any;
+  next: any;
+};
+
 // 2. Получаем данные для текущей страницы
-const post = Astro.props;
+const { post, prev, next } = Astro.props;
 const { Content } = await render(post);
 ---
 
 <BlogPost {...post.data}>
   <Content />
+  <PostNavigation prevPost={prev} nextPost={next} lang="ru" />
 </BlogPost>

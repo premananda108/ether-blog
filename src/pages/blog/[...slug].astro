@@ -1,30 +1,59 @@
 ---
 import { type CollectionEntry, getCollection, render } from "astro:content";
 import BlogPost from "../../layouts/BlogPost.astro";
+import PostNavigation from "../../components/PostNavigation.astro";
 
 export async function getStaticPaths() {
 	const posts = await getCollection("blog");
 
 	// Фильтруем посты, которые лежат в папке src/content/blog/en/
-	const enPosts = posts.filter((post) => post.id.startsWith("en/"));
+	const enPosts = posts
+		.filter((post) => post.id.startsWith("en/"))
+		.sort((a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
 
-	return enPosts.map((post) => {
+	return enPosts.map((post, index) => {
 		// Отрезаем 'en/' из пути, чтобы URL был чистым: /blog/atom-structure-part-1
 		const slugBase = post.data.slug || post.id.replace(/^en\//, "");
 
+		const prev = index > 0 ? enPosts[index - 1] : null;
+		const next = index < enPosts.length - 1 ? enPosts[index + 1] : null;
+
 		return {
 			params: { slug: slugBase },
-			props: post,
+			props: {
+				post,
+				prev: prev
+					? {
+							title: prev.data.title,
+							slug: `/blog/${
+								prev.data.slug || prev.id.replace(/^en\//, "")
+							}`,
+					  }
+					: null,
+				next: next
+					? {
+							title: next.data.title,
+							slug: `/blog/${
+								next.data.slug || next.id.replace(/^en\//, "")
+							}`,
+					  }
+					: null,
+			},
 		};
 	});
 }
 
-type Props = CollectionEntry<"blog">;
+type Props = {
+	post: CollectionEntry<"blog">;
+	prev: any;
+	next: any;
+};
 
-const post = Astro.props;
+const { post, prev, next } = Astro.props;
 const { Content } = await render(post);
 ---
 
 <BlogPost {...post.data}>
 	<Content />
+	<PostNavigation prevPost={prev} nextPost={next} lang="en" />
 </BlogPost>
