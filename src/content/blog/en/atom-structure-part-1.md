@@ -3,7 +3,7 @@ title: "Atomic Structure. Ether Dynamics. Part 1"
 description: "The first article in a series developing ether dynamics theory. Toroidal vortices, direct observations of electron orbitals, and the question of the alpha particle."
 pubDate: 2026-02-23
 lang: "en"
-heroImage: '/images/part1-cover.jpg'
+heroImage: "../../../assets/images/part1-cover.jpg"
 tags: ["ether dynamics", "atom", "physics", "proton", "electron", "Atsyukovsky"]
 ---
 
@@ -39,7 +39,7 @@ Let's start from the beginning. According to the ether dynamics model, protons, 
 
 This is roughly what a proton might look like:
 
-![Diagram of a proton as a toroidal ether vortex](/images/proton1.png)
+![Diagram of a proton as a toroidal ether vortex](../../../assets/images/proton1.png)
 
 > *"The proposed physical model of an elementary particle within the ether dynamics framework is a toroidal ether vortex possessing both ring and toroidal rotation, or a combination of such vortices."*
 >
@@ -57,7 +57,7 @@ This concerns the first-ever "direct observation" of the electron orbital of a h
 
 The study was carried out by a group of scientists from the Institute for Atomic and Molecular Physics (AMOLF) in the Netherlands. The results were published in the prestigious journal *Physical Review Letters* in 2013 ([PhysRevLett.110.213001](https://doi.org/10.1103/PhysRevLett.110.213001)).
 
-![Hydrogen](/images/hydrogen-photo.jpg)
+![Hydrogen](../../../assets/images/hydrogen-photo.jpg)
 
 ### How It Works
 
@@ -102,7 +102,7 @@ This supports the hypothesis that the electron has a complex internal topology w
 
 Now let's return to the alpha particle. In Dmitry Losinets's book *"All of Physics in 100 Pages,"* it is depicted as a combination of nucleons. Looking at that diagram, I had doubts about the mechanical strength of such a structure.
 
-![Alpha particle](/images/alfa1.png)
+![Alpha particle](../../../assets/images/alfa1.png)
 
 This doubt is reinforced by the fact that the alpha particle is an **exceptionally stable formation**. It is precisely the "building block" actively used in forming heavier atomic nuclei.
 
