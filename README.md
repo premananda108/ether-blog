@@ -1,62 +1,56 @@
-# Astro Starter Kit: Blog
+# Ether Blog
 
-```sh
-npm create astro@latest -- --template blog
-```
+**Ether Blog** is a multilingual platform dedicated to exploring alternative physics, specifically the theory of **Ether Dynamics**. It challenges conventional quantum mechanical models by proposing a mechanical, engineering-based approach to the structure of matter.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## 🚀 Key Features
 
-Features:
+- **Multilingual Support**: Full English and Russian localization.
+- **Modern Aesthetic**: High-end "Deep Space" design using glassmorphism and neon accents.
+- **Content Focused**: Optimized for reading long-form articles about atomic structures and vortex theory.
+- **Performance**: Built with **Astro** for lightning-fast, static delivery.
+- **Scientific Visualization**: Integrated support for high-quality images and diagrams of atomic observations.
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+## 🛠️ Technology Stack
 
-## 🚀 Project Structure
+- **Framework**: [Astro](https://astro.build/)
+- **Styling**: Vanilla CSS (Variables, Blurs, Gradients)
+- **Content**: Markdown & MDX
+- **Images**: Sharp for optimized media delivery
+- **Deployment**: Static Site Generation (SSG)
 
-Inside of your Astro project, you'll see the following folders and files:
+## 📁 Project Structure
 
 ```text
 ├── public/
+│   ├── images/          # Real atomic photography and covers
+│   └── favicon.svg      # Custom themed vortex icon
 ├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
+│   ├── components/      # Multilingual UI components (LanguageSwitcher, Header, etc.)
+│   ├── content/
+│   │   └── blog/        # Localized articles (en/ and ru/)
+│   ├── layouts/         # Glass-themed layouts for blog posts
+│   ├── pages/           # Localized routing (index, blog indices)
+│   └── styles/          # Global design system (global.css)
 ├── astro.config.mjs
-├── README.md
 ├── package.json
 └── tsconfig.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## 🧞 Getting Started
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
+All commands are run from the root of the project:
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
 | `npm install`             | Installs dependencies                            |
 | `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+| `npm run build`           | Build the production site to `./dist/`           |
+| `npm run preview`         | Preview the production build locally             |
 
-## 👀 Want to learn more?
+## 📄 License
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Credit
+---
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+*This project aims to bridge the gap between complex physics and intuitive mechanical understanding. Welcome to the vortex.*
