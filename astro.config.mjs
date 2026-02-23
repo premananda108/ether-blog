@@ -6,7 +6,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
+	site: 'https://ether-blog.vercel.app',
 	integrations: [mdx(), sitemap()],
 	i18n: {
 		defaultLocale: 'en',
