@@ -1,7 +1,7 @@
 ---
 title: "Atomic Structure. Ether Dynamics. Part 1"
 description: "The first article in a series developing ether dynamics theory. Toroidal vortices, direct observations of electron orbitals, and the question of the alpha particle."
-pubDate: 2026-02-23
+pubDate: 2026-01-30
 lang: "en"
 heroImage: "../../../assets/images/part1-cover.jpg"
 tags: ["ether dynamics", "atom", "physics", "proton", "electron", "Atsyukovsky"]
