@@ -1,11 +1,11 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Footer from '../components/Footer.astro';
-import Header from '../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import BaseHead from "../components/BaseHead.astro";
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 ---
 
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ru">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
@@ -19,7 +19,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 				gap: 1.5rem;
 			}
 			.tagline {
-				font-family: 'Fira Code', monospace;
+				font-family: "Fira Code", monospace;
 				color: var(--accent);
 				letter-spacing: 0.1em;
 				text-transform: uppercase;
@@ -66,9 +66,9 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 			}
 			.btn-secondary:hover {
 				background: var(--bg-surface-solid);
-				border-color: rgba(255,255,255,0.2);
+				border-color: rgba(255, 255, 255, 0.2);
 			}
-			
+
 			.features {
 				display: grid;
 				grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -82,24 +82,37 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 		<main>
 			<section class="hero-section">
 				<span class="tagline">Alternative Physics</span>
-				<h1><span class="gradient-text">Ether Dynamics</span> & Matter Structure</h1>
+				<h1>
+					<span class="gradient-text">Ether Dynamics</span> & Matter Structure
+				</h1>
 				<p class="subtitle">
-					Exploring how our world works at the fundamental level. Forget probabilities—welcome to the engineering approach to atomic structures.
+					Exploring how our world works at the fundamental level.
+					Forget probabilities—welcome to the engineering approach to
+					atomic structures.
 				</p>
 				<div class="cta-buttons">
-					<a href="/blog/atom-structure-part-1" class="btn btn-primary">Start Reading</a>
+					<a
+						href="/blog/atom-structure-etherdynamics"
+						class="btn btn-primary">Start Reading</a
+					>
 					<a href="/blog" class="btn btn-secondary">All Articles</a>
 				</div>
 			</section>
-			
+
 			<section class="features">
 				<div class="glass-panel">
 					<h3>🔭 Direct Observations</h3>
-					<p>We analyze real images of atoms obtained by quantum microscopes, not mathematical abstractions.</p>
+					<p>
+						We analyze real images of atoms obtained by quantum
+						microscopes, not mathematical abstractions.
+					</p>
 				</div>
 				<div class="glass-panel">
 					<h3>🌪️ Vortex Theory</h3>
-					<p>The Ether returns. Discover why matter is a stable toroidal vortex in a superdense medium.</p>
+					<p>
+						The Ether returns. Discover why matter is a stable
+						toroidal vortex in a superdense medium.
+					</p>
 				</div>
 			</section>
 		</main>
