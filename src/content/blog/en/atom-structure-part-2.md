@@ -23,7 +23,6 @@ As is well known, it consists of two protons and two neutrons, and must be as co
 - the neutrons lie on an axis oriented at **90° to the proton axis**.
 
 ![Alpha particle diagram](../../../assets/images/alfa.png)
-
 ---
 
 ## 🌀 The Stabilization Mechanism
@@ -45,7 +44,6 @@ In hydrodynamics, this effect is explained by a pressure difference — the **"c
 When the alpha particle generates (or captures) two electrons, it becomes a **helium atom**. Helium is a noble gas, which is explained by its high degree of symmetry.
 
 ![Helium atom diagram](../../../assets/images/He.png)
-
 ---
 
 ## 🧪 Lithium: The Next Element
@@ -104,7 +102,6 @@ Beryllium-8 is an exceptional case: it decays almost instantaneously. Apparently
 Let's try to construct a model of the **beryllium-9** nucleus. We note that the most likely end products when ⁹Be is split are two alpha particles (⁴He) plus lighter particles. For now, let's assume the nucleus looks like this:
 
 ![Beryllium-9 atom diagram](../../../assets/images/Be9_Final.png)
-
 ---
 
 ## 🛠️ Build Your Own Model!
@@ -114,7 +111,6 @@ If you'd like to create similar models yourself, try the online atom constructor
 Or build a model from whatever you have at hand:
 
 ![Alpha particle made from bagels](../../../assets/images/alpha_DIY.png)
-
 ---
 
 *To be continued. In Part 3, we will look at heavier elements and the patterns that allow us to predict nuclear structure.*
