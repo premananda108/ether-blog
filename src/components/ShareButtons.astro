@@ -1,0 +1,150 @@
+---
+interface Props {
+    title: string;
+    url: string;
+}
+
+const { title, url } = Astro.props;
+
+// Determine language from pathname
+const isRu = Astro.url.pathname.startsWith("/ru");
+const shareText = isRu ? "Поделиться статьей" : "Share this article";
+const copyText = isRu ? "Копировать ссылку" : "Copy Link";
+const copiedText = isRu ? "Ссылка скопирована!" : "Link copied!";
+
+// Encode parameters for URLs
+const encodedUrl = encodeURIComponent(url);
+const encodedTitle = encodeURIComponent(title);
+
+const socialLinks = [
+    {
+        name: "Telegram",
+        icon: "TG",
+        url: `https://t.me/share/url?url=${encodedUrl}&text=${encodedTitle}`,
+        color: "#0088cc",
+    },
+    {
+        name: "Twitter", // X
+        icon: "X",
+        url: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+        color: "#1da1f2",
+    },
+    {
+        name: "LinkedIn",
+        icon: "LI",
+        url: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`,
+        color: "#0a66c2",
+    },
+];
+---
+
+<div class="share-container glass-panel">
+    <h3 class="share-title">{shareText}</h3>
+    <div class="share-buttons">
+        {
+            socialLinks.map((link) => (
+                <a
+                    href={link.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="share-button"
+                    title={link.name}
+                    style={`--hover-color: ${link.color}`}
+                >
+                    <span>{link.name}</span>
+                </a>
+            ))
+        }
+        <button id="copy-link" class="share-button" title={copyText}>
+            <span id="copy-text">{copyText}</span>
+        </button>
+    </div>
+</div>
+
+<script define:vars={{ copiedText, copyText }}>
+    const copyBtn = document.getElementById("copy-link");
+    const copyLabel = document.getElementById("copy-text");
+
+    if (copyBtn && copyLabel) {
+        copyBtn.addEventListener("click", async () => {
+            try {
+                await navigator.clipboard.writeText(window.location.href);
+                copyLabel.textContent = copiedText;
+                copyBtn.classList.add("copied");
+
+                setTimeout(() => {
+                    copyLabel.textContent = copyText;
+                    copyBtn.classList.remove("copied");
+                }, 2000);
+            } catch (err) {
+                console.error("Failed to copy: ", err);
+            }
+        });
+    }
+</script>
+
+<style>
+    .share-container {
+        margin-top: 4rem;
+        padding: 2rem;
+        text-align: center;
+    }
+
+    .share-title {
+        margin-top: 0;
+        margin-bottom: 1.5rem;
+        font-size: 1.25rem;
+        color: var(--text-primary);
+        font-family: "Outfit", sans-serif;
+    }
+
+    .share-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        justify-content: center;
+    }
+
+    .share-button {
+        display: inline-flex;
+        align-items: center;
+        padding: 0.6rem 1.2rem;
+        border-radius: var(--radius);
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        color: var(--text-secondary);
+        text-decoration: none;
+        font-size: 0.9rem;
+        font-weight: 500;
+        transition: var(--transition);
+        cursor: pointer;
+        font-family: inherit;
+    }
+
+    .share-button:hover {
+        background: rgba(255, 255, 255, 0.1);
+        border-color: var(--hover-color, var(--accent));
+        color: var(--hover-color, var(--accent));
+        transform: translateY(-2px);
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    }
+
+    button.share-button {
+        background: rgba(255, 255, 255, 0.05);
+        color: var(--text-secondary);
+    }
+
+    .share-button.copied {
+        border-color: #22c55e;
+        color: #22c55e;
+    }
+
+    @media (max-width: 480px) {
+        .share-buttons {
+            flex-direction: column;
+        }
+        .share-button {
+            justify-content: center;
+        }
+    }
+</style>
