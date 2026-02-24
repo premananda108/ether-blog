@@ -3,7 +3,7 @@ title: "Atomic Structure. Helium, Lithium, and Beryllium. Part 2"
 description: "The second article in the ether dynamics series. We explore the stability mechanism of the alpha particle, and the structure of helium, lithium, and beryllium through the toroidal vortex model."
 pubDate: 2026-02-24
 lang: "en"
-heroImage: '/images/He.png'
+heroImage: "../../../assets/images/He.png"
 tags: ["ether dynamics", "atom", "physics", "alpha particle", "helium", "lithium", "beryllium"]
 ---
 
