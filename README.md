@@ -1,3 +1,5 @@
+[https://ether-blog.vercel.app/](https://ether-blog.vercel.app/)
+
 # Ether Blog
 
 **Ether Blog** is a multilingual platform dedicated to exploring alternative physics, specifically the theory of **Ether Dynamics**. It challenges conventional quantum mechanical models by proposing a mechanical, engineering-based approach to the structure of matter.
