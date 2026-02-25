@@ -75,6 +75,18 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
 				gap: 2rem;
 				margin-top: 4rem;
 			}
+			.card-link {
+				text-decoration: none;
+				color: inherit;
+				display: block;
+			}
+			.card-link:hover {
+				border-color: var(--accent);
+				transform: translateY(-4px);
+			}
+			.card-link:hover h3 {
+				color: var(--accent);
+			}
 		</style>
 	</head>
 	<body>
@@ -101,13 +113,17 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../../consts";
 			</section>
 
 			<section class="features">
-				<div class="glass-panel">
+				<a
+					href="/ru/blog/atom-structure-etherdynamics"
+					class="glass-panel card-link"
+				>
 					<h3>🔭 Прямые наблюдения</h3>
 					<p>
 						Мы анализируем реальные снимки атомов, полученные
-						квантовыми микроскопами, а не математические абстракции.
+						фотоионизационным микроскопом, а не математические
+						абстракции.
 					</p>
-				</div>
+				</a>
 				<div class="glass-panel">
 					<h3>🌪️ Теория вихрей</h3>
 					<p>

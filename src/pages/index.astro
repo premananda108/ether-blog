@@ -75,6 +75,18 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 				gap: 2rem;
 				margin-top: 4rem;
 			}
+			.card-link {
+				text-decoration: none;
+				color: inherit;
+				display: block;
+			}
+			.card-link:hover {
+				border-color: var(--accent);
+				transform: translateY(-4px);
+			}
+			.card-link:hover h3 {
+				color: var(--accent);
+			}
 		</style>
 	</head>
 	<body>
@@ -100,13 +112,17 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 			</section>
 
 			<section class="features">
-				<div class="glass-panel">
+				<a
+					href="/blog/atom-structure-etherdynamics"
+					class="glass-panel card-link"
+				>
 					<h3>🔭 Direct Observations</h3>
 					<p>
-						We analyze real images of atoms obtained by quantum
-						microscopes, not mathematical abstractions.
+						We analyze real images of atoms obtained by a
+						photoionization microscope, not mathematical
+						abstractions.
 					</p>
-				</div>
+				</a>
 				<div class="glass-panel">
 					<h3>🌪️ Vortex Theory</h3>
 					<p>
