@@ -29,7 +29,7 @@ The solution that fits our model perfectly is a **linear structure with a 90-deg
 
 ---
 
-## 🏗️ The Architecture of the Carbon Nucleus
+## 📐 The Architecture of the Carbon Nucleus
 
 Take a look at the model of the carbon-12 nucleus:
 

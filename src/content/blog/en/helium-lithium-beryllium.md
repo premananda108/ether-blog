@@ -97,7 +97,7 @@ Beryllium-8 is an exceptional case: it decays almost instantaneously. Apparently
 
 ![Beryllium-8 atom diagram](../../../assets/images/Be8.png)
 
-### 🏗️ A Model of Beryllium-9
+### 📐 A Model of Beryllium-9
 
 Let's try to construct a model of the **beryllium-9** nucleus. We note that the most likely end products when ⁹Be is split are two alpha particles (⁴He) plus lighter particles. For now, let's assume the nucleus looks like this:
 
