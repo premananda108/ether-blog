@@ -1,86 +1,171 @@
 ---
-title: "Ether vs Relativism: How a Material Medium Frees Physics from Paradoxes. Part 12"
-description: "The twelfth article in the etherdynamics series. We analyze the paradoxes of the theory of relativity (magnetic field, twins, pole and barn) through the prism of ether hydrodynamics."
+title: "Ether vs. Relativism: How a Material Medium Frees Physics from Paradoxes. Part 12"
+description: "The twelfth article in the ether dynamics series. We examine the paradoxes of relativity theory (magnetic field, twins, pole and barn) through the lens of ether hydrodynamics."
 pubDate: 2026-02-27
 lang: "en"
-heroImage: "../../../assets/images/magnetic_paradox.png"
-tags: ["etherdynamics", "relativism", "physics", "ether", "einstein", "paradoxes"]
+heroImage: "../../../assets/images/spacetime_curvature.png"
+tags: ["ether dynamics", "relativism", "physics", "ether", "einstein", "paradoxes"]
 ---
 
-> "Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality."
+> *"Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality."*
 >
 > — Nikola Tesla
 
-We are accustomed to believing that we live in an objective reality. If a chair stands in the middle of a room, it exists for everyone. This is the foundation of common sense: **material objects and physical fields either exist, or they do not.**
+> *"According to the general theory of relativity, space is unthinkable without ether..."*
+>
+> — Albert Einstein (Leiden Lecture, 1920)
 
-However, modern physics claims otherwise. Open any electromagnetism textbook, and you will encounter a statement that seems absurd upon closer inspection: **the existence of a magnetic field depends on the observer's velocity.**
+---
+
+## 🌍 Restoring Common Sense to Our Understanding of Reality
+
+We are used to thinking that we live in an objective reality. If a chair stands in the middle of a room, it exists for everyone — for the person sitting in an armchair, for someone running past, and for a cosmonaut in orbit. The chair does not disappear or turn into a table just because you are moving. This is the foundation of common sense: **material objects and physical fields either exist or they do not.**
+
+Yet modern physics claims the opposite. Open any textbook on electrodynamics and you will encounter a statement that, on closer inspection, seems absurd: **the existence of a magnetic field depends on the speed of the observer.**
 
 ---
 
 ## 🧲 The Magnetic Field Paradox
 
-Consider a classic experiment: a wire carrying a current and an electron flying nearby.
+### Setting Up the Experiment
 
-- **An observer in the laboratory** sees that the current creates a **magnetic field**. The Lorentz force acts on the flying electron, and it is attracted to the wire. The cause is magnetism.
-- **An observer flying with the electron** sees the electron as stationary. The magnetic force for them is zero. But the electron is still attracted! Relativism explains this by claiming that due to length contraction, the charge density in the wire has changed, and an **electric field** has arisen.
+Consider a classic experiment. We have a wire carrying a current I, and an electron flying alongside it at velocity v.
 
 ![Magnetic field paradox](../../../assets/images/magnetic_paradox.png)
 
-**The Problem:** A fundamental physical entity (a field) turns out not to be a real object, but an effect of perception. In etherdynamics, everything is simpler: both magnetic and electric fields are simply **different forms of motion of the same material medium (the ether)**.
+### The Laboratory Frame (Observer at Rest)
 
-![Unified nature of electromagnetism](../../../assets/images/electromagnetism_vortex.png)
+- current flows through the wire — conduction electrons are moving;
+- the moving charges create a magnetic field around the wire: B = μ₀I/(2πr);
+- the Lorentz force acts on the flying electron: F = qvB;
+- the electron is attracted to the wire.
+
+The cause of attraction is magnetic interaction. The field is real, measurable, and acts on the charge.
+
+### The Electron's Frame (Moving with the Electron)
+
+- the electron is at rest for us (v = 0), so the magnetic force F = qvB is zero;
+- yet the electron is still attracted;
+- due to relativistic effects, the charge density in the wire has changed — the wire has acquired an electric charge;
+- an electric field E = λ/(2πε₀r) has appeared, which acts on the electron.
+
+The attractive force is the same, but **the nature of the force has radically changed**.
+
+### Where the Problem Lies
+
+We are asked to believe that a fundamental physical entity — the magnetic field — is not a real object, but an effect of perception that depends on the choice of reference frame:
+
+- you stop — the field is magnetic;
+- you run — the field is electric;
+- you fly even faster — the field changes again.
+
+**The river analogy:** imagine you are standing on the bank of a river. The water flows and turns a turbine. You get into a boat and float downstream. Did the turbine stop turning for you? Did the river disappear? No. You simply changed your speed relative to the current. The medium — the water — stayed where it was. But in modern physics there is no medium (no ether) — and therefore no "river." There are only formulas that adjust the answer to fit the observer.
+
+Modern physics has replaced physical understanding with mathematical formalism: an abstract "spacetime" has been introduced as an independent entity, fields are described by tensors that "transform" when coordinates change, and when you ask "what is really happening?" the answer is "look at the equations." This works for calculations, but kills understanding.
+
+### The Ether Solution
+
+In ether dynamics, everything is simpler. Magnetic and electric fields are **different forms of motion of the same material medium**:
+
+1. the magnetic field is the vortex motion of ether around a current-carrying wire;
+2. the electric field is the laminar motion of ether;
+3. these are two forms of motion of a single substance.
+
+![The unified nature of electromagnetism](../../../assets/images/electromagnetism_vortex.png)
+
+The current creates vortex motion in the ether. The electron flies through this vortex. The vortex acts on the electron with a force — analogous to the Magnus effect in hydrodynamics. There is no "change in the nature of the force" — simply the same ether flow perceived from different angles.
 
 ---
 
-## 📏 The Pole-and-Barn Paradox
+## 📏 The Pole and Barn Paradox
 
-A 10-meter pole flies toward an 8-meter barn at relativistic speed.
-- In the barn's frame, the pole contracts and **fits** inside.
-- In the pole's frame, the barn contracts and the pole **does not fit**.
+A pole 10 meters long moves at relativistic speed toward a barn 8 meters long.
 
-![Barn paradox 1](../../../assets/images/barn_paradox_1.png)
-![Barn paradox 2](../../../assets/images/barn_paradox_2.png)
+![Pole and barn paradox — barn frame](../../../assets/images/barn_paradox_1.png)
 
-**The Ether Solution:** Lorentz contraction is a real physical effect of atoms interacting with the medium. If the pole moves relative to the ether, it is **actually contracted** and physically fits into the barn. The paradox disappears because there is a preferred frame of reference — the stationary ether.
+- **From the barn observer's point of view:** the pole has contracted to 6 meters due to relativistic compression — it fits entirely inside the barn.
+- **From the pole observer's point of view:** the barn has contracted to 5 meters — the pole does not fit.
+
+![Pole and barn paradox — pole frame](../../../assets/images/barn_paradox_2.png)
+
+Special relativity explains this through the relativity of simultaneity — but this is sophistry. Either at some moment the pole was inside with both doors closed, or it was not. This is an objective fact.
+
+**The ether solution:** Lorentz contraction is a real physical effect of atomic interaction with the medium. Ether permeates all matter and acts on every atom — unlike air, which only pushes on the surface. Therefore an object is compressed uniformly throughout its entire volume.
+
+In the ether model there is a privileged frame of reference — the medium itself: if the barn is at rest in it and the pole is moving, the pole is really contracted and fits inside. If the pole is at rest and the barn is moving, the barn is really contracted. The paradox disappears because there is an objective reality.
 
 ---
 
 ## 🔄 The Twin Paradox
 
-One twin stays on Earth, while the other travels into space at extreme speed and returns. Who will be younger? SR says the situation is symmetrical, but "acceleration changes everything."
+One twin stays on Earth, the other flies off at near-light speed and returns. According to special relativity the situation is symmetric, but "acceleration changes everything" — and debates about this paradox continue to this day.
 
-**The Ether Solution:** Ether is a material medium. Movement through it causes resistance at the atomic level, which **slows down all physical processes** (atomic vibrations, clock rates). The traveling twin actually moved through the medium faster, their processes slowed down, and they are **objectively younger**.
+**The ether solution:** ether is a material medium that permeates all matter. As an object moves through it, every atom interacts with the medium — this interaction slows all physical processes (atomic oscillations, the ticking of clocks). The faster the motion, the stronger the effect. The traveling twin really moved through the medium faster, his atoms interacted more intensely, all his processes ran more slowly — he is objectively younger. The asymmetry is real. There is no paradox.
 
 ---
 
 ## ⚡ The Simultaneity Paradox
 
-A lamp flashes in the center of a moving train.
-- For a passenger on the train, the light reaches the walls simultaneously.
-- For an observer on the platform, it does not, as the walls move toward or away from the light.
+A lamp flashes in the center of a moving train car.
 
 ![Light in a moving train](../../../assets/images/train_relativity.jpg)
 
-**The Ether Solution:** The speed of light is invariant relative to the medium, not the observer. There is objective simultaneity (or lack thereof) within the ether medium.
+- **Observer on the train:** light reached both walls simultaneously.
+- **Observer on the platform:** while the light was traveling, the train moved — light reached the rear wall sooner and the front wall later.
+
+Special relativity concludes: simultaneity is relative, there is no absolute time. But this destroys the very concept of causality.
+
+**The ether solution:** the speed of light is determined by the medium, not the observer. If the train moves relative to the ether at speed v, then the speed of light toward the rear is c + v and toward the front is c − v relative to the train. The events are objectively non-simultaneous. There is an objective reality — there is no paradox.
+
+---
+
+## 🔬 The Michelson-Morley Experiment and the Detection of the Ether Wind
+
+### Why the Michelson Experiment Does Not Disprove Ether
+
+The Michelson-Morley experiment (1887) is commonly regarded as the "refutation" of ether. The logic is simple: if the Earth moves through a stationary ether at ~30 km/s, an interferometer should detect a difference in the speed of light in different directions. No difference was found — conclusion: there is no ether.
+
+But this conclusion rests on the assumption of a stationary ether. If ether is carried along by the Earth, the instrument, the Earth, and the ether move as a single whole — no difference is detected, for the same reason that a passenger inside an airplane feels no wind. Michelson conducted his experiment in a basement — the zone of maximum entrainment. The conclusion about the absence of ether was premature.
+
+### Experiments That Detected Anisotropy
+
+After Michelson, the experiment was repeated many times, and several researchers found what he had been looking for:
+
+- **1925–1926, Dayton Miller.** Interferometer on Mount Wilson (1,800 m). Anisotropy ~10 km/s, direction — the constellation Leo.
+- **1984, Stefan Marinov.** Mechanical rotating disks ("coupled shutters"). After reanalysis, results matched Miller.
+- **1984, Torr and Kolen.** One-way speed of light measurement. Anisotropy detected.
+- **1991, Roland DeWitte.** RF cables, Belgium. Results consistent with Miller.
+- **2002, Yuri Galaev.** Millimeter-wave radio + optical interferometer, Kharkov. Anisotropy detected, ether viscosity measured.
+
+All these experiments point in the same direction — toward the constellation Leo — consistent with the motion of the Solar System in a global ether flow. The weakness of the effect (~10 km/s instead of the expected ~30 km/s) indicates that the Earth is entrained by the flow, but not completely — which is precisely why Miller on the mountain "felt" the incoming galactic ether, while Michelson in the basement did not.
 
 ---
 
 ## ✅ Advantages of the Ether Model
 
-1.  **Return of Common Sense:** There is an objective reality that exists independently of the observer.
-2.  **Unified Nature of Forces:** All interactions are the dynamics of a single medium.
-3.  **Physical Clarity:** Light is a wave in a medium, not an abstract "geodesic in spacetime."
+**Objective reality.** In special relativity, simultaneity is relative, the flow of time depends on the observer, there is no objective reality. In the ether model there is a material medium: events occur within it independently of who is watching.
 
-![Spacetime curvature as an abstraction](../../../assets/images/spacetime_curvature.png)
+**The unified nature of forces.** In SR/GR, the electromagnetic field and gravity are two different entities. In the ether model, all interactions are the dynamics of a single medium.
+
+**Physical clarity.** SR: "Light propagates along geodesics in curved spacetime" — this is mathematics. The ether model: "Light is a wave in ether; near the Sun the ether is denser, the wave refracts as in glass." A complete analogy with familiar phenomena from optics and hydrodynamics — intuitively clear.
+
+**Resolution of all paradoxes.** The magnetic field paradox, the twin paradox, the pole and barn paradox, the simultaneity paradox — all of them cease to be paradoxes once there is a material medium.
+
+![Spacetime curvature](../../../assets/images/spacetime_curvature.png)
+---
+
+## 🌟 Summary
+
+SR and GR give correct calculations — but they are mathematical magic that works without explaining the nature of phenomena. Quantum field theory has already effectively brought ether back under the name "quantum vacuum": it is not empty, it is filled with virtual particles, possesses energy, and can oscillate (Casimir effect). Fields are excitations of the vacuum.
+
+Ether has returned. It is time to call things by their proper names and build physics on the foundation of a material medium rather than abstract geometry.
+
+Our approach is not just formulas — it is an understanding of what lies behind them.
 
 ---
 
-## 🔬 Why the Michelson-Morley Experiment Was Not the End?
+## 🔮 What's Next?
 
-Official science believes that the ether was debunked by Michelson in 1887. However, that experiment was conducted in a basement, where the ether is entrained by the Earth. Later, Dayton Miller conducted experiments on a mountain (1800m) and **detected anisotropy** in the speed of light (~10 km/s). His results confirmed the existence of an ether wind but were ignored due to the mathematical elegance of Relativism.
-
-## 🔑 Summary
-
-SR and GR provide correct calculations, but they are "mathematical magic" that works without explaining the nature of phenomena. Etherdynamics returns a material foundation to physics.
-
-Our approach is not just about formulas, but about understanding the mechanics of the Universe. 🌌
+In the next part — **neon: the chemical fortress:**
+- when symmetry seals every gate;
+- why noble gases do not react.
