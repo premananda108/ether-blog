@@ -100,19 +100,25 @@ An alpha particle collides with Neon, loses one proton on impact, and turns into
 
 ## 🔮 Model Predictions and Reality
 
-### Prediction №1: extreme softness
+### Prediction №1: valency 1
+
+Only one "fountain" points outward — only one point through which an ether-flow exchange with a neighboring atom is possible.
+
+**Reality:** Sodium is strictly monovalent in all its compounds: NaCl, NaOH, Na₂O — a perfect match with the model.
+
+### Prediction №2: extreme softness
 
 Atoms hold onto each other only through weak "tails" — the metallic lattice is very flexible.
 
 **Reality:** Sodium can be cut with an ordinary knife — a perfect match with the model.
 
-### Prediction №2: low ionization potential
+### Prediction №3: low ionization potential
 
 The "extra" electron from the rotated alpha is pushed out by the full force of the Neon framework.
 
 **Reality:** it takes 4 times less energy to remove an electron from Sodium than from Neon — a perfect match.
 
-### Prediction №3: low melting point
+### Prediction №4: low melting point
 
 The weak bond between nuclei is easily broken by thermal motion.
 
