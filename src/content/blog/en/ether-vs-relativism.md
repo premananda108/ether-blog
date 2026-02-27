@@ -1,7 +1,7 @@
 ---
 title: "Ether vs. Relativism: How a Material Medium Frees Physics from Paradoxes. Part 12"
 description: "The twelfth article in the ether dynamics series. We examine the paradoxes of relativity theory (magnetic field, twins, pole and barn) through the lens of ether hydrodynamics."
-pubDate: 2026-02-27
+pubDate: 2026-01-27
 lang: "en"
 heroImage: "../../../assets/images/spacetime_curvature.png"
 tags: ["ether dynamics", "relativism", "physics", "ether", "einstein", "paradoxes"]

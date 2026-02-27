@@ -1,7 +1,7 @@
 ---
 title: "The Vortex Electron: The Breath of the Atom and the Nature of Electricity. Part 7"
 description: "The seventh article in the etherdynamics series. We consider the electron not as a particle, but as a vortex process. A hypothesis about the nature of electricity and the conductivity of metals."
-pubDate: 2026-02-22
+pubDate: 2026-01-22
 lang: "en"
 heroImage: "../../../assets/images/H_fontan.png"
 tags: ["etherdynamics", "electron", "electricity", "physics", "hypothesis", "conductivity"]

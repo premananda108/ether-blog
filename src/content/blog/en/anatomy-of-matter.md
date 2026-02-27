@@ -1,7 +1,7 @@
 ---
 title: "The Anatomy of Matter: Proton, Electron, and Neutron. No Magic — Only Hydrodynamics. Part 10"
 description: "The tenth article in the etherdynamics series. We analyze the internal structure of the primary building blocks of matter as dynamic vortex processes in the ether medium."
-pubDate: 2026-02-25
+pubDate: 2026-01-25
 lang: "en"
 heroImage: "../../../assets/images/proton.png"
 tags: ["etherdynamics", "proton", "electron", "neutron", "physics", "vortex", "matter"]

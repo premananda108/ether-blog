@@ -1,7 +1,7 @@
 ---
 title: "Atomic Structure. Carbon and the Geometry of Life. Part 4"
 description: "The fourth article in the ether dynamics series. We explore the structure of the carbon-12 nucleus, the nature of the electron as a vortex loop, and the secret behind the exceptional stability of organic molecules."
-pubDate: 2026-02-15
+pubDate: 2026-01-15
 lang: "en"
 heroImage: "../../../assets/images/Carbon12.png"
 tags: ["ether dynamics", "atom", "physics", "carbon", "methane", "life"]

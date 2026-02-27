@@ -1,7 +1,7 @@
 ---
 title: "Atomic Structure. Boron. Part 3"
 description: "The third article in the ether dynamics series. We explore the structure of the boron atom, its isotopes, and its unique neutron absorption properties."
-pubDate: 2026-02-10
+pubDate: 2026-01-10
 lang: "en"
 heroImage: "../../../assets/images/Boron11.png"
 tags: ["ether dynamics", "atom", "physics", "boron", "isotopes"]

@@ -1,7 +1,7 @@
 ---
 title: "Neon: The Chemical Fortress. When Symmetry Seals Every Gate. Part 13"
 description: "The thirteenth article in the ether dynamics series. We explore the architecture of the neon-20 nucleus, the reasons for its absolute inertness, and the perfect symmetry of 5 alpha particles."
-pubDate: 2026-02-28
+pubDate: 2026-01-28
 lang: "en"
 heroImage: "../../../assets/images/neon-structure.png"
 tags: ["ether dynamics", "atom", "physics", "neon", "chemistry", "inertness"]

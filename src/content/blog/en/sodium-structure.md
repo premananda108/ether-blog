@@ -1,7 +1,7 @@
 ---
 title: "Sodium: The Explosive Start of the Third Period. When One Extra Nucleon Changes Everything. Part 14"
 description: "The fourteenth article in the ether dynamics series. We explore the structure of sodium-23, the reasons for its enormous reactivity, and how a superstructure on the neon nucleus creates the first alkali metal of the third period."
-pubDate: 2026-03-01
+pubDate: 2026-02-01
 lang: "en"
 heroImage: "../../../assets/images/sodium-atom.png"
 tags: ["ether dynamics", "atom", "physics", "sodium", "chemistry", "metals"]

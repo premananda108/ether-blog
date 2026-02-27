@@ -1,7 +1,7 @@
 ---
 title: "Atomic Structure. Nitrogen: Architecture with a Secret. Part 5"
 description: "The fifth article in the ether dynamics series. We explore the structure of the nitrogen-14 nucleus, the emergence of asymmetry through the deuteron 'backpack', and the nature of the ultra-strong triple bond in the N₂ molecule."
-pubDate: 2026-02-20
+pubDate: 2026-01-20
 lang: "en"
 heroImage: "../../../assets/images/N.png"
 tags: ["ether dynamics", "atom", "physics", "nitrogen", "ammonia", "N2"]

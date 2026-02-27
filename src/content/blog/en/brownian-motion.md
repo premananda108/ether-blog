@@ -1,7 +1,7 @@
 ---
 title: "Why Do Molecules Run? The Hidden Mechanics of Heat and Brownian Motion. Part 11"
 description: "The eleventh article in the ether dynamics series. We uncover the real cause of thermal molecular motion: why Brownian motion is not magic, but the work of microscopic reactive engines."
-pubDate: 2026-02-26
+pubDate: 2026-01-26
 lang: "en"
 heroImage: "../../../assets/images/brownian_motion.jpg"
 tags: ["ether dynamics", "physics", "Brownian motion", "heat", "thermodynamics", "molecules"]

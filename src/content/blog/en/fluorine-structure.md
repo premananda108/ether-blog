@@ -1,7 +1,7 @@
 ---
 title: "Fluorine: The Chemical Predator. When One Extra Proton Turns an Element into a Monster. Part 9"
 description: "The ninth article in the etherdynamics series. We study the architecture of the fluorine-19 nucleus, the reasons for its extreme aggressiveness, and the paradoxes of chemical bonds through the mechanics of vortex flows."
-pubDate: 2026-02-24
+pubDate: 2026-01-24
 lang: "en"
 heroImage: "../../../assets/images/Fluorine19.png"
 tags: ["etherdynamics", "atom", "physics", "fluorine", "chemistry", "reactivity"]

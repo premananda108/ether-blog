@@ -1,7 +1,7 @@
 ---
 title: "Nucleon Ties: An Engineering Approach to Nucleus Design. Part 8"
 description: "The eighth article in the etherdynamics series. We analyze the principles of designing atomic nuclei, the concept of nucleon ties, and methods for verifying alpha-particle structures."
-pubDate: 2026-02-23
+pubDate: 2026-01-23
 lang: "en"
 heroImage: "../../../assets/images/alfa.png"
 tags: ["etherdynamics", "nucleus", "nucleons", "ties", "physics", "lithium", "beryllium", "boron"]

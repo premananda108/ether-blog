@@ -1,7 +1,7 @@
 ---
 title: "Atomic Structure. Oxygen: The Architecture of Oxidation. Part 6"
 description: "The sixth article in the etherdynamics series. We analyze the T-shaped structure of the oxygen-16 nucleus, predicting the valency and geometry of the water molecule based on engineering analysis."
-pubDate: 2026-02-21
+pubDate: 2026-01-21
 lang: "en"
 heroImage: "../../../assets/images/Oxygen_O2.png"
 tags: ["etherdynamics", "atom", "physics", "oxygen", "water", "oxidation"]
