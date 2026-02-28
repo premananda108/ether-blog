@@ -110,14 +110,14 @@ In 2000, chemists obtained the first-ever artificial compound of argon — Argon
 The ether-dynamic model shows us a striking architectural fractal similarity between periods:
 
 1. **Sealed Foundations (Noble Gases):**
-   - Period 2: **Helium (1α)** — a foundation-ball.
-   - Period 3: **Neon (5α)** — a sealed "first floor."
-   - Period 4: **Argon (9α)** — a sealed "second floor."
+   - Period 1: **Helium (1α)** — a foundation-ball.
+   - Period 2: **Neon (5α)** — a sealed "first floor."
+   - Period 3: **Argon (9α)** — a sealed "second floor."
 
 2. **Symmetry Breakers (Alkali Metals):**
    - Period 2: **Lithium (1α + t)** — breaking the ball.
    - Period 3: **Sodium (5α + t)** — breaking the Neon lock.
-   - Period 4: **Potassium (9α + t)** — Potassium breaks the Argon cocoon!
+   - Period 4: **Potassium (9α + t)** — breaking the Argon cocoon!
 
 Nature has gone through every combination on the foundation of a single base particle, building upon it everything that could fit. The Argon lock is slammed shut.
 
