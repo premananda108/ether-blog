@@ -25,6 +25,18 @@ const socialImageURL =
 
 <!-- Global Metadata -->
 <meta charset="utf-8" />
+<script is:inline>
+	// Run as early as possible to prevent FOUC
+	const getThemePreference = () => {
+		if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
+			return localStorage.getItem('theme');
+		}
+		// Optional: Check system preference
+		// if (window.matchMedia('(prefers-color-scheme: light)').matches) { return 'light'; }
+		return 'dark'; // Default
+	};
+	document.documentElement.setAttribute('data-theme', getThemePreference());
+</script>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="icon" href="/favicon.ico" />

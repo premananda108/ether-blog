@@ -2,6 +2,7 @@
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 import LanguageSwitcher from './LanguageSwitcher.astro';
+import ThemeToggle from './ThemeToggle.astro';
 
 const isRu = Astro.currentLocale === 'ru';
 const blogPath = isRu ? '/ru/blog' : '/blog';
@@ -15,6 +16,7 @@ const blogPath = isRu ? '/ru/blog' : '/blog';
 			<HeaderLink href={blogPath}>{isRu ? 'Статьи' : 'Blog'}</HeaderLink>
 		</div>
 		<div class="actions">
+			<ThemeToggle />
 			<LanguageSwitcher />
 		</div>
 	</nav>
@@ -54,6 +56,11 @@ const blogPath = isRu ? '/ru/blog' : '/blog';
 	.internal-links {
 		display: flex;
 		gap: 1.5rem;
+	}
+	.actions {
+		display: flex;
+		align-items: center;
+		gap: 1rem;
 	}
 	nav a {
 		padding: 0.5em 0;
