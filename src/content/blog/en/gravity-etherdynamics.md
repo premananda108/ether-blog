@@ -1,5 +1,5 @@
 ---
-title: "Gravity: Earth's Pressure Cooker. Why the Dinosaurs Died and Where the Dense Atmosphere Went. Part 22"
+title: "Gravity: Earth's Pressure Cooker. Why the Dinosaurs Died. Part 22"
 description: "Twenty-second article in the ether dynamics series. We explore the mechanism of gravity as an ether flow toward a reactor in Earth's core. A polemic with the 'gravitational machine' theory. Dinosaur biomechanics: calculations show that gravity in the Mesozoic was approximately 0.5g."
 pubDate: 2026-03-18
 lang: "en"
