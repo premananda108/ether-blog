@@ -19,6 +19,7 @@
 	--text-primary: #e2e8f0;
 	--text-secondary: #94a3b8;
 	--text-muted: #64748b;
+	--text-strong: #ffffff;
 
 	/* Glows and Gradients */
 	--glow-accent: 0 0 20px rgba(0, 240, 255, 0.4);
@@ -31,6 +32,34 @@
 	--glass-blur: blur(12px);
 	--radius: 12px;
 	--transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[data-theme="light"] {
+	/* Core Colors */
+	--bg-main: #f0f4f8; /* Soft light gray-blue */
+	--bg-surface: rgba(255, 255, 255, 0.8);
+	--bg-surface-solid: #ffffff;
+	--bg-card: rgba(255, 255, 255, 0.9);
+
+	/* Neons adapted for readability */
+	--accent: #008ebf; /* Deeper Cyan */
+	--accent-secondary: #5a00d6; /* Deeper Purple */
+	--accent-tertiary: #d6004b;
+
+	/* Text Colors */
+	--text-primary: #1e293b;
+	--text-secondary: #475569;
+	--text-muted: #64748b;
+	--text-strong: #111827;
+
+	/* Glows and Gradients */
+	--glow-accent: 0 0 15px rgba(0, 142, 191, 0.2);
+	--glow-purple: 0 0 20px rgba(90, 0, 214, 0.2);
+	--gradient-text: linear-gradient(90deg, var(--accent), var(--accent-secondary));
+	--gradient-bg: linear-gradient(135deg, rgba(240, 244, 248, 1) 0%, rgba(226, 232, 240, 1) 100%);
+
+	/* UI Variables */
+	--glass-border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 * {
@@ -50,6 +79,7 @@ body {
 	font-size: 18px;
 	line-height: 1.7;
 	-webkit-font-smoothing: antialiased;
+	transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 main {
@@ -68,7 +98,7 @@ h5,
 h6 {
 	font-family: 'Outfit', sans-serif;
 	font-weight: 700;
-	color: #fff;
+	color: var(--text-strong);
 	line-height: 1.2;
 	margin: 2rem 0 1rem;
 	letter-spacing: -0.02em;
@@ -102,7 +132,7 @@ h4 {
 strong,
 b {
 	font-weight: 600;
-	color: #fff;
+	color: var(--text-strong);
 }
 
 p {
@@ -121,7 +151,7 @@ a {
 }
 
 a:hover {
-	color: #fff;
+	color: var(--text-strong);
 	text-shadow: var(--glow-accent);
 }
 
@@ -178,12 +208,12 @@ blockquote {
 	margin: 2em 0;
 	border-radius: 0 var(--radius) var(--radius) 0;
 	font-style: italic;
-	color: #fff;
+	color: var(--text-strong);
 	box-shadow: var(--glow-accent);
 }
 
 blockquote p {
-	color: #fff;
+	color: var(--text-strong);
 	margin: 0;
 }
 
