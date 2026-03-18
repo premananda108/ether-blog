@@ -155,13 +155,3 @@ Gravity is not a machine with buttons. It is an **ether flow toward a reactor**,
 The solid crust of young Earth worked like a pressure cooker lid: it restrained expansion, slowed synthesis, and reduced gravity to ~0.5g. In these conditions, giants thrived.
 
 When the lid was blown off — the reactor flared, gravity surged, and the world of giants collapsed. Not an asteroid. Not an operator. **Thermodynamics.**
-
----
-
-## 🛠️ Try It Yourself!
-
-Calculate the stress on a dinosaur's bones at different gravity values. The formula:
-
-**σ = (m × g) / A**, where m = mass, g = gravitational acceleration, A = cross-sectional area of the femur.
-
-Ultimate bone strength: ~150–200 MPa. At what g does the skeleton of an Argentinosaurus (90 tons) break?
