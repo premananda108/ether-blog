@@ -17,7 +17,7 @@ But the answer he proposes raises serious questions. Let's examine his theory, a
 
 ---
 
-## 📺 The "Gravitational Machine" Theory
+## ⚙️⚙️⚙️ The "Gravitational Machine" Theory
 
 The video's author proposes the following picture:
 
