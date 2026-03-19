@@ -131,7 +131,7 @@ At reduced gravity, not every gas can be retained at the surface. Gas molecules 
 
 - 💧 **Humid tropical climate** — water vapor was well retained, the atmosphere was saturated with moisture. The planet resembled a giant greenhouse.
 
-### 🛡 Magnetic Shield
+### 🛡️ Magnetic Shield
 
 There is one more factor in atmospheric retention that is often overlooked: **Earth's magnetic field**.
 
