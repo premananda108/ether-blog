@@ -108,6 +108,37 @@ It was in precisely these conditions that dinosaurs thrived: low gravity, dense 
 
 ---
 
+## 🌬️ What Was the Atmosphere Like at 0.5g?
+
+At reduced gravity, not every gas can be retained at the surface. Gas molecules are in constant motion, and the lightest of them can reach speeds sufficient to escape into space. The criterion is simple: if a molecule's thermal velocity exceeds approximately 1/6 of the planet's escape velocity, the gas gradually leaks away.
+
+### What Stays and What Escapes?
+
+| Gas | Molecular Mass | Thermal Velocity (300 K) | Retention at 0.5g |
+|---|---|---|---|
+| **H₂** (hydrogen) | 2 | ~1.9 km/s | ❌ Escapes |
+| **He** (helium) | 4 | ~1.4 km/s | ❌ Escapes slowly |
+| **H₂O** (water vapor) | 18 | ~0.6 km/s | ✅ Retained |
+| **N₂** (nitrogen) | 28 | ~0.5 km/s | ✅ Retained |
+| **O₂** (oxygen) | 32 | ~0.5 km/s | ✅ Retained |
+| **CO₂** (carbon dioxide) | 44 | ~0.4 km/s | ✅ Retained easily |
+
+**Conclusion:** the atmosphere of a smaller Earth consisted of **heavy gases**: CO₂, N₂, O₂, water vapor. Hydrogen and helium escaped into space. This gives us:
+
+- 🌡️ **Powerful greenhouse effect** — high concentrations of CO₂ and water vapor trapped heat. Hence the warm climate across the entire planet, from poles to equator (confirmed by paleoclimate data — there were no polar ice caps in the Mesozoic).
+
+- 🌿 **Abundant oxygen** — at a pressure of 3–5 atm, the partial pressure of O₂ could be several times higher than today. The result: giant insects (dragonflies with 70 cm wingspans in the Carboniferous!), lush vegetation, and high metabolism in large animals.
+
+- 💧 **Humid tropical climate** — water vapor was well retained, the atmosphere was saturated with moisture. The planet resembled a giant greenhouse.
+
+### 🛡 Magnetic Shield
+
+There is one more factor in atmospheric retention that is often overlooked: **Earth's magnetic field**.
+
+The solar wind (a stream of charged particles from the Sun) can gradually strip away the upper layers of an atmosphere — this is exactly what happened to Mars, which lost its magnetic field and with it most of its atmosphere.
+
+---
+
 ## 💥 The "Pressure Cooker" — The Catastrophe Mechanism
 
 And now the most interesting question: **what killed the dinosaurs?**
