@@ -29,7 +29,7 @@ Today we will:
 
 ## ⚠️ The Trap: The "Fountain and Funnel" Model
 
-The first thing that comes to mind: a positive charge is a "fountain" (ether source), a negative charge is a "funnel" (ether sink). See more details in [Article 7](../blog/vortex-electron/):
+The first thing that comes to mind: a positive charge is a "fountain" (ether source), a negative charge is a "funnel" (ether sink). See more details in [Article 7](/blog/vortex-electron/):
 
 Let's test this idea on three cases:
 
@@ -114,7 +114,7 @@ The flows do not collide but merge; their velocities add up. The ether in the ga
 
 ## ⚖️ Neutrality: Compensated Rotations
 
-Recall our neutron model from [Article 10](../blog/anatomy-of-matter/):
+Recall our neutron model from [Article 10](/blog/anatomy-of-matter/):
 
 > **Neutron = Proton + Electron (in a compressed state)**
 
@@ -230,7 +230,7 @@ Analogy: all fans turned to face the same way. Wind!
 
 ## 🔩 Why is Iron a Magnet, but Copper is Not?
 
-It might seem that ferromagnets are unique because their atoms couple through "fountain → funnel" flows. But this is not the case! **All** crystalline materials hold together through the coupling of ether flows — we examined exactly this in [Article 7](../blog/vortex-electron/) about the "pipeline system of matter". The "fountain → funnel" links are exactly what holds the atoms in the lattice.
+It might seem that ferromagnets are unique because their atoms couple through "fountain → funnel" flows. But this is not the case! **All** crystalline materials hold together through the coupling of ether flows — we examined exactly this in [Article 7](/blog/vortex-electron/) about the "pipeline system of matter". The "fountain → funnel" links are exactly what holds the atoms in the lattice.
 
 So what's the difference?
 
@@ -311,7 +311,7 @@ Cut a magnet in half — each half will create **its own** complete circulation 
 
 ## 🌡️ Curie Temperature: When Vibrations Defeat Order
 
-When heated, the atom-pumps oscillate more strongly (we covered this in [Article 11](../blog/brownian-motion/) on Brownian motion). At a certain temperature — the **Curie temperature** — the vibrations become so strong that they **tear apart** the interatomic "locks".
+When heated, the atom-pumps oscillate more strongly (we covered this in [Article 11](/blog/brownian-motion/) on Brownian motion). At a certain temperature — the **Curie temperature** — the vibrations become so strong that they **tear apart** the interatomic "locks".
 
 | Material | Curie Temperature |
 |---|---|
@@ -327,7 +327,7 @@ Above this temperature, the vortex axes crumble back into chaos → magnetism di
 
 The electromagnet is the perfect test for the model. If our picture is correct, then a coil with current should create the **exact same** phenomenon as a permanent magnet.
 
-1. **Current in a wire** is a directed flow of ether ([Article 7](../blog/vortex-electron/)).
+1. **Current in a wire** is a directed flow of ether ([Article 7](/blog/vortex-electron/)).
 2. **A wire coiled into a loop** is a spiral flow.
 3. A spiral flow = a multitude of parallel micro-contours = the **analog** of aligned atoms in a magnet.
 
