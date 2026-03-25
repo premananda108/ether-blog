@@ -3,7 +3,7 @@ title: "Charge and Magnetism: Two Faces of One Vortex. Part 23"
 description: "The twenty-third article in the etherodynamics series. We examine the nature of electric charge as vortex chirality, explain the attraction and repulsion of charges, permanent magnets, and the impossibility of a magnetic monopole."
 pubDate: 2026-03-20
 lang: "en"
-heroImage: "../../../assets/images/charge_cover.png"
+heroImage: "../../../assets/images/atom_charge_cover.png"
 tags: ["etherodynamics", "charge", "magnetism", "physics", "electricity", "vortex"]
 ---
 
