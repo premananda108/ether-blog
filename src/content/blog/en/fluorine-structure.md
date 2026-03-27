@@ -1,10 +1,10 @@
 ---
 title: "Fluorine: The Chemical Predator. When One Extra Proton Turns an Element into a Monster. Part 9"
-description: "The ninth article in the etherdynamics series. We study the architecture of the fluorine-19 nucleus, the reasons for its extreme aggressiveness, and the paradoxes of chemical bonds through the mechanics of vortex flows."
+description: "The ninth article in the aetherdynamics series. We study the architecture of the fluorine-19 nucleus, the reasons for its extreme aggressiveness, and the paradoxes of chemical bonds through the mechanics of vortex flows."
 pubDate: 2026-01-24
 lang: "en"
 heroImage: "../../../assets/images/Fluorine19.png"
-tags: ["etherdynamics", "atom", "physics", "fluorine", "chemistry", "reactivity"]
+tags: ["aetherdynamics", "atom", "physics", "fluorine", "chemistry", "reactivity"]
 ---
 
 > "The most dangerous predators are not the biggest, but the hungriest."
@@ -50,7 +50,7 @@ A triton (1p + 2n) is added to this structure — an asymmetrical superstructure
 ## 💀 Anatomy of a Predator: What do we see in the blueprint?
 
 ### 1. One Super-Powerful Funnel
-Unlike Oxygen, where two funnels work symmetrically, in Fluorine, one active central funnel is reinforced by a proton, which most effectively sucks ether into the nucleus.
+Unlike Oxygen, where two funnels work symmetrically, in Fluorine, one active central funnel is reinforced by a proton, which most effectively sucks aether into the nucleus.
 
 ### 2. Excess Neutrons
 10 neutrons to 9 protons is an unusual ratio for light elements. The excess neutrons create additional nucleon ties, but they also increase the internal pressure within the nucleus.
@@ -71,7 +71,7 @@ The central proton "sitting" right inside the funnel turns the atom into a super
 Fluorine doesn't just "want" to form a bond — it **needs** to do so to stabilize its asymmetrical, highly tense structure. This explains why it reacts even with concrete and noble gases (like xenon). ✓
 
 ### Forecast #4: Weak Bond in the F₂ Molecule
-When two such "predators" meet, they start a tug-of-war for the ether. The bond turns out extremely tense and is easily broken.
+When two such "predators" meet, they start a tug-of-war for the aether. The bond turns out extremely tense and is easily broken.
 **In reality**: The F-F bond energy is anomalously low compared to other halogens. ✓
 
 ![Fluorine Molecule F2](../../../assets/images/Fluorine_F2.png)

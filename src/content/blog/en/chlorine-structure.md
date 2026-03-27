@@ -1,10 +1,10 @@
 ---
 title: "Chlorine: A Predator in the Flesh. The Triton's Venomous Maw and the Magic of Odd Valencies. Part 20"
-description: "Twentieth article in the ether dynamics series. We analyze the structure of Chlorine-35, the reason for its extreme aggressiveness, and the mechanism of odd valencies (1, 3, 5, 7) — how a single triton transforms the stable Sulfur monolith into a formidable chemical predator."
+description: "Twentieth article in the aether dynamics series. We analyze the structure of Chlorine-35, the reason for its extreme aggressiveness, and the mechanism of odd valencies (1, 3, 5, 7) — how a single triton transforms the stable Sulfur monolith into a formidable chemical predator."
 pubDate: 2026-02-08
 lang: "en"
 heroImage: "../../../assets/images/chlorine-atom.png"
-tags: ["ether dynamics", "atom", "physics", "Chlorine", "chemistry", "halogens"]
+tags: ["aether dynamics", "atom", "physics", "Chlorine", "chemistry", "halogens"]
 ---
 
 > “Nothing is so contagious as violence.”
@@ -67,9 +67,9 @@ Let's compare the two predators:
 - **Fluorine (4α + t):** A protruding funnel on the light skeleton of Oxygen — a nimble and venomous killer.
 - **Chlorine (8α + t):** An identical protruding funnel, but its base is **twice as massive** (8α versus 4α).
 
-The huge Sulfur base works like a giant ether pump. All this power is focused into a single open asymmetric funnel. Chlorine is no longer a bumblebee; it is a bear with a chainsaw.
+The huge Sulfur base works like a giant aether pump. All this power is focused into a single open asymmetric funnel. Chlorine is no longer a bumblebee; it is a bear with a chainsaw.
 
-Its suction power is so great that it aggressively tears ether flows from other atoms. Entering the respiratory tract as a gas (Cl₂), it violently rips Hydrogen from the moist tissue of the lungs, forming hydrochloric acid (HCl). Tissues burn without fire. This is the essence of a halogen: a massive base focused into a single open valve provided by the triton disturber.
+Its suction power is so great that it aggressively tears aether flows from other atoms. Entering the respiratory tract as a gas (Cl₂), it violently rips Hydrogen from the moist tissue of the lungs, forming hydrochloric acid (HCl). Tissues burn without fire. This is the essence of a halogen: a massive base focused into a single open valve provided by the triton disturber.
 
 ---
 
@@ -89,7 +89,7 @@ Total: 6 + 1 = **7 funnels**.
 
 ### Prediction №2: The Magic of Odd Valencies (1, 3, 5, 7)
 
-Chlorine exhibits valencies only in odd numbers. Ether dynamics provides a simple geometric explanation:
+Chlorine exhibits valencies only in odd numbers. Aether dynamics provides a simple geometric explanation:
 
 - **Valency 1 (The Start):** Chlorine is a predator. It counts on its single huge "maw" from the triton to capture a neighbor's flow (NaCl, HCl). The 6 base funnels remain "dormant" in their symmetrical closed state.
 - **Step +2:** If Chlorine encounters a strong partner (like Oxygen), it begins to "unpack" it. But the base funnels of the 8α-skeleton are coupled in pairs — they cannot open one by one, only in pairs.

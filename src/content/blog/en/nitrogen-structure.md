@@ -1,10 +1,10 @@
 ---
 title: "Atomic Structure. Nitrogen: Architecture with a Secret. Part 5"
-description: "The fifth article in the ether dynamics series. We explore the structure of the nitrogen-14 nucleus, the emergence of asymmetry through the deuteron 'backpack', and the nature of the ultra-strong triple bond in the N₂ molecule."
+description: "The fifth article in the aether dynamics series. We explore the structure of the nitrogen-14 nucleus, the emergence of asymmetry through the deuteron 'backpack', and the nature of the ultra-strong triple bond in the N₂ molecule."
 pubDate: 2026-01-20
 lang: "en"
 heroImage: "../../../assets/images/N.png"
-tags: ["ether dynamics", "atom", "physics", "nitrogen", "ammonia", "N2"]
+tags: ["aether dynamics", "atom", "physics", "nitrogen", "ammonia", "N2"]
 ---
 
 > *"We still do not know one thousandth of a percent of what nature has revealed to us."*
@@ -46,7 +46,7 @@ The side view clearly shows how the deuteron "sticks out" perpendicular to the m
 
 ---
 
-## ⚡ Ether Dynamics: Where Do the 4 Active Zones Come From?
+## ⚡ Aether Dynamics: Where Do the 4 Active Zones Come From?
 
 In mainstream chemistry, nitrogen has a valence of **3** in most compounds (NH₃, amines) and **4** in the ammonium ion (NH₄⁺). Let's count the active zones in our model:
 
@@ -68,7 +68,7 @@ A chemical bond is not a rigid stick. It is a vortex cord along which the attach
 In the case of ammonia:
 
 1. Three hydrogen atoms attach to the three active end zones of nitrogen.
-2. The lateral deuteron (the "lone electron pair") generates a powerful ether flow that takes up a lot of space.
+2. The lateral deuteron (the "lone electron pair") generates a powerful aether flow that takes up a lot of space.
 3. This flow pushes against the hydrogen atoms. Since the bonds are flexible, the hydrogens "drift" downward, away from the pressure.
 
 As a result, they arrange themselves into a pyramid — not because the nucleus is a pyramid, but because they self-organize under the pressure of the nuclear flows, pulled tight on their "leashes."
@@ -81,13 +81,13 @@ As a result, they arrange themselves into a pyramid — not because the nucleus 
 
 Why is gaseous nitrogen (N₂) so hard to break apart? Why is it an inert gas? The same principle of vortex cords is at work here.
 
-When two nitrogen atoms meet, they extend their ether flows (electrons) toward each other. The three active end flows of each atom meet in the space between the nuclei and pair up. The lateral deuteron remains unused — it is precisely this that preserves the "lone pair" even within the N₂ molecule.
+When two nitrogen atoms meet, they extend their aether flows (electrons) toward each other. The three active end flows of each atom meet in the space between the nuclei and pair up. The lateral deuteron remains unused — it is precisely this that preserves the "lone pair" even within the N₂ molecule.
 
 ![Nitrogen molecule N₂](../../../assets/images/Nitrogen_N2.png)
 
 Think of this not as a rigid crossbar, but as a braided rope. Three vortex cords from one atom intertwine with three cords from the other. The result is an extraordinarily strong **triple bond**.
 
-This is why nitrogen is inert: its "hands" are firmly occupied with each other. Breaking this triple ether rope and forcing nitrogen to react with something else requires enormous energy — for example, a lightning strike.
+This is why nitrogen is inert: its "hands" are firmly occupied with each other. Breaking this triple aether rope and forcing nitrogen to react with something else requires enormous energy — for example, a lightning strike.
 
 ---
 

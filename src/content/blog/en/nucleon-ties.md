@@ -1,10 +1,10 @@
 ---
 title: "Nucleon Ties: An Engineering Approach to Nucleus Design. Part 8"
-description: "The eighth article in the etherdynamics series. We analyze the principles of designing atomic nuclei, the concept of nucleon ties, and methods for verifying alpha-particle structures."
+description: "The eighth article in the aetherdynamics series. We analyze the principles of designing atomic nuclei, the concept of nucleon ties, and methods for verifying alpha-particle structures."
 pubDate: 2026-01-23
 lang: "en"
 heroImage: "../../../assets/images/alfa.png"
-tags: ["etherdynamics", "nucleus", "nucleons", "ties", "physics", "lithium", "beryllium", "boron"]
+tags: ["aetherdynamics", "nucleus", "nucleons", "ties", "physics", "lithium", "beryllium", "boron"]
 ---
 
 > "Nature is a self-consistent system. If your model contradicts even a single experiment, it is wrong."
@@ -29,17 +29,17 @@ Today we will:
 
 ## 🔧 Nucleon Ties — The Core of the Structure
 
-In the previous article, we introduced the concept of ether ties. Now let's name them more precisely — **nucleon ties**.
+In the previous article, we introduced the concept of aether ties. Now let's name them more precisely — **nucleon ties**.
 
 ### What is this?
 
-When protons and neutrons approach each other, their ether flows form closed circulation loops. These loops act as **hydrodynamic ties**:
+When protons and neutrons approach each other, their aether flows form closed circulation loops. These loops act as **hydrodynamic ties**:
 
-- A **proton** ejects ether at high speed.
-- A **neutron** passes ether through itself under the influence of a pressure difference.
-- A **tie** is a flow of ether that strings nucleons into a "garland".
+- A **proton** ejects aether at high speed.
+- A **neutron** passes aether through itself under the influence of a pressure difference.
+- A **tie** is a flow of aether that strings nucleons into a "garland".
 
-**Result**: The ether tie presses on the nucleons, compressing them into a single structure.
+**Result**: The aether tie presses on the nucleons, compressing them into a single structure.
 
 ![Principle of a nucleon tie](../../../assets/images/alfa.png)
 
@@ -75,7 +75,7 @@ Before building, you need to know your "bricks":
 *Example*: In Carbon-12, the central α-particle is rotated 90° relative to the outer ones.
 
 ### Principle 3: Neutrons as spacers for docking
-**Neutrons serve as "inlets" for ether flows.** Protons eject ether, and the flow is drawn in through neutrons. When assembling a nucleus, protons must alternate with neutrons.
+**Neutrons serve as "inlets" for aether flows.** Protons eject aether, and the flow is drawn in through neutrons. When assembling a nucleus, protons must alternate with neutrons.
 
 *Mechanism*: Ejection from a proton → entry into a neighbor's neutron → creation of a tie.
 
@@ -104,7 +104,7 @@ How do we verify that our 3D nucleus model is correct? Here are 3 independent te
 **Conclusion:** The nucleus is a construction set. We can understand its details by looking at how it breaks or rearranges during collisions.
 
 ### Test 2: Valency
-**Principle:** The number of active "funnels" (ether suction zones) equals the chemical valency of the element.
+**Principle:** The number of active "funnels" (aether suction zones) equals the chemical valency of the element.
 
 *How it works:*
 1. Build a 3D model of the nucleus.

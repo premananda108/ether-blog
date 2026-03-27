@@ -1,10 +1,10 @@
 ---
 title: "Aluminium: The Double Game. How Breaching a Solid Foundation Creates Amphoterism. Part 16"
-description: "The sixteenth article in the ether dynamics series. We explore the structure of aluminium-27, the reasons for its trivalency, plasticity and unique amphoteric behaviour — how a triton breaks the magnesium framework and produces a hybrid element."
+description: "The sixteenth article in the aether dynamics series. We explore the structure of aluminium-27, the reasons for its trivalency, plasticity and unique amphoteric behaviour — how a triton breaks the magnesium framework and produces a hybrid element."
 pubDate: 2026-02-04
 lang: "en"
 heroImage: "../../../assets/images/aluminum-atom.png"
-tags: ["ether dynamics", "atom", "physics", "aluminium", "chemistry", "metals"]
+tags: ["aether dynamics", "atom", "physics", "aluminium", "chemistry", "metals"]
 ---
 
 > *"Compromise is the art of dividing a pie so that everyone is sure they got the bigger piece."*
@@ -55,7 +55,7 @@ The triton (1p + 2n) docks onto the magnesium framework. Just as with Sodium, th
 
 1. Magnesium's two polar fountains remain in position — open and ready for stable flow release.
 2. The rotated alpha particle turns its vortex outward.
-3. A local pressure imbalance arises in the nucleus: the construction wants to shed the excess ether flow through a third, non-equilibrium fountain.
+3. A local pressure imbalance arises in the nucleus: the construction wants to shed the excess aether flow through a third, non-equilibrium fountain.
 
 ---
 
@@ -89,8 +89,8 @@ Any active vortex is a loop — a fountain and a funnel at the same time. The tr
 - **Sodium vortex (ejection pump):** The third vortex, opened by the triton-induced rotation, works exclusively as an ejector.
 
 **How it plays out:**
-- **Acid environment:** Aluminium activates all three vortices in "fountain mode." It releases the excess ether flow and dissolves as an active metal.
-- **Alkali environment:** Aluminium encounters an excess external ether flow. The stable magnesium vortices **switch to intake mode** (funnel mode). It accepts electrons from the partner and transforms into the complex anion Al(OH)₄⁻.
+- **Acid environment:** Aluminium activates all three vortices in "fountain mode." It releases the excess aether flow and dissolves as an active metal.
+- **Alkali environment:** Aluminium encounters an excess external aether flow. The stable magnesium vortices **switch to intake mode** (funnel mode). It accepts electrons from the partner and transforms into the complex anion Al(OH)₄⁻.
 
 **Reality:**
 - Al + HCl → AlCl₃ + H₂↑ (reacts with acid) ✓
@@ -101,7 +101,7 @@ Chemical flexibility arises from the non-uniformity of ports in the hybrid 6α +
 ### Prediction №3: plasticity (compared with Magnesium)
 
 **Magnesium (6α):** a strictly symmetrical 3D lattice. Under a blow the lattice cracks (brittleness).
-**Aluminium (6α + t):** the structure is breached. Three bonding points in different directions form a more complex, interwoven network of ether channels. Atoms can "slide" relative to each other under mechanical stress without breaking bonds.
+**Aluminium (6α + t):** the structure is breached. Three bonding points in different directions form a more complex, interwoven network of aether channels. Atoms can "slide" relative to each other under mechanical stress without breaking bonds.
 
 **Reality:** Aluminium is highly ductile — it can be rolled into extremely thin foil. Magnesium at room temperature is considerably more brittle — a perfect match with the model.
 

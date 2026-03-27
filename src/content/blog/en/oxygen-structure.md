@@ -1,10 +1,10 @@
 ---
 title: "Atomic Structure. Oxygen: The Architecture of Oxidation. Part 6"
-description: "The sixth article in the etherdynamics series. We analyze the T-shaped structure of the oxygen-16 nucleus, predicting the valency and geometry of the water molecule based on engineering analysis."
+description: "The sixth article in the aetherdynamics series. We analyze the T-shaped structure of the oxygen-16 nucleus, predicting the valency and geometry of the water molecule based on engineering analysis."
 pubDate: 2026-01-21
 lang: "en"
 heroImage: "../../../assets/images/Oxygen_O2.png"
-tags: ["etherdynamics", "atom", "physics", "oxygen", "water", "oxidation"]
+tags: ["aetherdynamics", "atom", "physics", "oxygen", "water", "oxidation"]
 ---
 
 > "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
@@ -51,9 +51,9 @@ Looking at the T-shape, we can immediately tell how many bonds this atom will fo
 
 In chemistry, there is the concept of "electronegativity" — the ability of an atom to attract electrons to itself. Oxygen is a champion at this (second only to fluorine). Why?
 
-Official science introduces coefficients. Etherdynamics explains the mechanics. Look at the Oxygen nucleus. These are 4 powerful pumps (alpha particles). Unlike the Carbon chain, there is an asymmetry here that exposes the incoming flows.
+Official science introduces coefficients. Aetherdynamics explains the mechanics. Look at the Oxygen nucleus. These are 4 powerful pumps (alpha particles). Unlike the Carbon chain, there is an asymmetry here that exposes the incoming flows.
 
-**Conclusion:** This atom will work like a powerful vacuum cleaner, aggressively tearing ether flows (electrons) away from its neighbors.
+**Conclusion:** This atom will work like a powerful vacuum cleaner, aggressively tearing aether flows (electrons) away from its neighbors.
 
 **Reality:** Oxygen is a powerful oxidizer that supports combustion.
 
@@ -83,7 +83,7 @@ This is exactly why oxygen (O₂) is chemically active: a double bond is easier 
 
 ---
 
-## 🌟 The Predictive Power of Etherdynamics
+## 🌟 The Predictive Power of Aetherdynamics
 
 The structure of the nucleus is the blueprint by which chemistry is built. The T-shaped form of the Oxygen nucleus (4 alpha particles) explains:
 - Why it is divalent (2 open funnels).

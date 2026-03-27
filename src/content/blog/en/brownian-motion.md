@@ -1,10 +1,10 @@
 ---
 title: "Why Do Molecules Run? The Hidden Mechanics of Heat and Brownian Motion. Part 11"
-description: "The eleventh article in the ether dynamics series. We uncover the real cause of thermal molecular motion: why Brownian motion is not magic, but the work of microscopic reactive engines."
+description: "The eleventh article in the aether dynamics series. We uncover the real cause of thermal molecular motion: why Brownian motion is not magic, but the work of microscopic reactive engines."
 pubDate: 2026-01-26
 lang: "en"
 heroImage: "../../../assets/images/brownian_motion.jpg"
-tags: ["ether dynamics", "physics", "Brownian motion", "heat", "thermodynamics", "molecules"]
+tags: ["aether dynamics", "physics", "Brownian motion", "heat", "thermodynamics", "molecules"]
 ---
 
 > *"I am never content until I have constructed a mechanical model of the object. If I succeed in making one, I understand it. If I cannot, I do not understand it."*
@@ -52,21 +52,21 @@ Experiments show that atoms vibrate even at absolute zero (T = 0 K). Quantum mec
 
 ---
 
-## 📐 The Ether Dynamics Answer: The Atom Is a Jet Engine
+## 📐 The Aether Dynamics Answer: The Atom Is a Jet Engine
 
-Ether dynamics gives a simple engineering answer: **an atom is not a billiard ball. An atom is a jet engine.**
+Aether dynamics gives a simple engineering answer: **an atom is not a billiard ball. An atom is a jet engine.**
 
 ### The Mechanism
 
-A proton is a toroidal ether vortex. It works as a pump: drawing ether in on one side and expelling it on the other.
+A proton is a toroidal aether vortex. It works as a pump: drawing aether in on one side and expelling it on the other.
 
-A molecule consists of many atoms with different orientations. Ether is simultaneously expelled and drawn in across all sides of the molecule in different directions. The net vector of these flows is random at any given moment — and it is precisely this that delivers a chaotic push to the molecule in an arbitrary direction.
+A molecule consists of many atoms with different orientations. Aether is simultaneously expelled and drawn in across all sides of the molecule in different directions. The net vector of these flows is random at any given moment — and it is precisely this that delivers a chaotic push to the molecule in an arbitrary direction.
 
 **What we observe as the chaotic motion of molecules is the work of billions of microscopic jet engines.**
 
-![Diagram of ether flows in a hydrogen atom](../../../assets/images/hydrogen_vortex.png)
+![Diagram of aether flows in a hydrogen atom](../../../assets/images/hydrogen_vortex.png)
 
-It is the continuous, multidirectional operation of these ether pumps inside each molecule that generates its constant motion.
+It is the continuous, multidirectional operation of these aether pumps inside each molecule that generates its constant motion.
 
 ![Brownian motion animation](../../../assets/images/brownian_animation.gif)
 
@@ -76,7 +76,7 @@ It is the continuous, multidirectional operation of these ether pumps inside eac
 
 Now it is clear why atoms vibrate even at absolute zero.
 
-- A proton is a **pump with no off switch**. It cannot stop pumping ether, because it itself is that pumping vortex. To stop a proton is to destroy it.
+- A proton is a **pump with no off switch**. It cannot stop pumping aether, because it itself is that pumping vortex. To stop a proton is to destroy it.
 - Even at T = 0 K, the proton keeps working. This work produces a minimum vibration — the very zero-point oscillations we observe.
 
 It is like a diesel engine at idle — it vibrates even when the car is going nowhere. There is no state of "running but completely still."
@@ -85,8 +85,8 @@ It is like a diesel engine at idle — it vibrates even when the car is going no
 
 ## 🌟 Summary
 
-- A **proton** draws in and expels ether — generating reactive thrust.
-- Ether is simultaneously expelled and drawn in across all sides of the molecule in different directions, producing a random net push.
+- A **proton** draws in and expels aether — generating reactive thrust.
+- Aether is simultaneously expelled and drawn in across all sides of the molecule in different directions, producing a random net push.
 - Billions of atoms delivering chaotic pushes — this is **thermal motion**.
 
 **Brownian motion** is the visible result of trillions of atomic jet engines continuously bombarding a dust particle from all sides.
@@ -97,6 +97,6 @@ An atom does not "have" motion. An atom **produces** motion.
 
 ## 🔮 What's Next?
 
-In the next part — **ether and relativism:**
+In the next part — **aether and relativism:**
 - gravity — attraction or flow?
 - time dilation through hydrodynamics;

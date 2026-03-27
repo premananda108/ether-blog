@@ -1,10 +1,10 @@
 ---
 title: "Silicon: The Carbon of the Third Period. Symmetrical Monolith and the Secret of Semiconductors. Part 17"
-description: "The seventeenth article in the ether dynamics series. We explore the structure of silicon-28, the reasons for its tetravalency, high melting point, and the semiconductor phenomenon — how seven alpha particles without a remainder create the foundation of the rocky world and modern electronics."
+description: "The seventeenth article in the aether dynamics series. We explore the structure of silicon-28, the reasons for its tetravalency, high melting point, and the semiconductor phenomenon — how seven alpha particles without a remainder create the foundation of the rocky world and modern electronics."
 pubDate: 2026-02-05
 lang: "en"
 heroImage: "../../../assets/images/silicon-atom.png"
-tags: ["ether dynamics", "atom", "physics", "silicon", "chemistry", "semiconductors"]
+tags: ["aether dynamics", "atom", "physics", "silicon", "chemistry", "semiconductors"]
 ---
 
 > *"A crystal is frozen mathematics."*
@@ -61,7 +61,7 @@ Carbon (3α) had 4 stable bonds. Silicon (7α) repeats that pattern at a new lev
 
 ### 2. Ultra-rigid grip
 
-Unlike asymmetric Aluminium (6α + t), where the ether channels were prone to bending, Silicon (7α) has perfectly balanced ports. Silicon atoms lock onto each other in a "death grip," forming a diamond lattice.
+Unlike asymmetric Aluminium (6α + t), where the aether channels were prone to bending, Silicon (7α) has perfectly balanced ports. Silicon atoms lock onto each other in a "death grip," forming a diamond lattice.
 
 ---
 
@@ -92,10 +92,10 @@ Carbon (3α) has no such reserve — the light linear construction has no hidden
 
 Why is Aluminium a flexible metal and an excellent conductor, while Silicon (just one proton more) is a brittle non-metal and insulator that only conducts at elevated temperature?
 
-- **In metals (Aluminium):** Due to the asymmetry of the triton, fountains dominate over funnels. Atoms form wide, flexible channels through which ether flows like water through a broad pipe.
-- **In Silicon (7α):** Symmetrical blocks lock onto each other perfectly. 4 fountains fit precisely into 4 funnels of neighbours. Ether is trapped inside the death grip. No current flows. At low temperatures Silicon is an **insulator**.
+- **In metals (Aluminium):** Due to the asymmetry of the triton, fountains dominate over funnels. Atoms form wide, flexible channels through which aether flows like water through a broad pipe.
+- **In Silicon (7α):** Symmetrical blocks lock onto each other perfectly. 4 fountains fit precisely into 4 funnels of neighbours. Aether is trapped inside the death grip. No current flows. At low temperatures Silicon is an **insulator**.
 
-**How to switch on conductivity?** The crystal must be **heated**. Heat is the vibration of ether. When Silicon's frameworks begin to vibrate, the rigid grip loosens slightly and ether starts seeping through the channels.
+**How to switch on conductivity?** The crystal must be **heated**. Heat is the vibration of aether. When Silicon's frameworks begin to vibrate, the rigid grip loosens slightly and aether starts seeping through the channels.
 
 **Reality:**
 - When heated, the resistance of metals *rises*.
@@ -152,7 +152,7 @@ Silicon is the analogue of Carbon in the third period.
 
 It took asymmetric Aluminium (6α + t) and, by adding one proton, completed the triton into the 7th alpha particle, anchoring it symmetrically on the opposite side of the nucleus. This mirror balancing gave Silicon 4 funnels and 4 fountains at the edges — an enhanced chemical analogue of Carbon (3α).
 
-But because of the massive "column" structure, the ports became fixed and the bonds incredibly rigid. Ether flows ended up locked in the grip of the crystal lattice, halting free conductivity and giving birth to the phenomenon of the **semiconductor**.
+But because of the massive "column" structure, the ports became fixed and the bonds incredibly rigid. Aether flows ended up locked in the grip of the crystal lattice, halting free conductivity and giving birth to the phenomenon of the **semiconductor**.
 
 Flexible, agile Carbon created us. Rigid, unwieldy Silicon created the ground we walk on and the computers we write on.
 

@@ -1,10 +1,10 @@
 ---
 title: "Sodium: The Explosive Start of the Third Period. When One Extra Nucleon Changes Everything. Part 14"
-description: "The fourteenth article in the ether dynamics series. We explore the structure of sodium-23, the reasons for its enormous reactivity, and how a superstructure on the neon nucleus creates the first alkali metal of the third period."
+description: "The fourteenth article in the aether dynamics series. We explore the structure of sodium-23, the reasons for its enormous reactivity, and how a superstructure on the neon nucleus creates the first alkali metal of the third period."
 pubDate: 2026-02-01
 lang: "en"
 heroImage: "../../../assets/images/sodium-atom.png"
-tags: ["ether dynamics", "atom", "physics", "sodium", "chemistry", "metals"]
+tags: ["aether dynamics", "atom", "physics", "sodium", "chemistry", "metals"]
 ---
 
 > *"One stone is enough to break a dam."*
@@ -41,7 +41,7 @@ The triton plays the role of a "lockbreaker" here — it disrupts the perfect sy
 
 ### Step 1: The Neon nucleus as the foundation
 
-The base of Sodium is the closed cross of 5 alpha particles. Inside this framework the ether flows are looped and stable.
+The base of Sodium is the closed cross of 5 alpha particles. Inside this framework the aether flows are looped and stable.
 
 ### Step 2: Adding the triton and rotating an α-particle
 
@@ -67,7 +67,7 @@ In Neon all flows are closed inside — the atoms do not "see" each other and fl
 
 ### Conductivity
 
-Ether flows freely through these open channels, which is what gives Sodium its high electrical conductivity.
+Aether flows freely through these open channels, which is what gives Sodium its high electrical conductivity.
 
 ![Sodium atom with electron flow](../../../assets/images/sodium-atom.png)
 
@@ -77,7 +77,7 @@ Ether flows freely through these open channels, which is what gives Sodium its h
 
 Fluorine (4α + t) and Sodium (5α + t) share the same "tail" (triton), yet they are complete opposites:
 
-- **Fluorine (the predator):** its nucleus (4α) is an incomplete T-shape. The triton there tries to close a gap, creating an ether pull **inward**. Fluorine wants to take from others.
+- **Fluorine (the predator):** its nucleus (4α) is an incomplete T-shape. The triton there tries to close a gap, creating an aether pull **inward**. Fluorine wants to take from others.
 - **Sodium (the donor):** its nucleus (5α) is already complete. The triton is **excess ballast**. The rotated alpha particle creates overpressure that Sodium strives to **release**.
 
 **Analogy:** Fluorine is a hungry predator (a vacuum cleaner). Sodium is an overfilled vessel (an open tap).
@@ -102,7 +102,7 @@ An alpha particle collides with Neon, loses one proton on impact, and turns into
 
 ### Prediction №1: valency 1
 
-Only one "fountain" points outward — only one point through which an ether-flow exchange with a neighboring atom is possible.
+Only one "fountain" points outward — only one point through which an aether-flow exchange with a neighboring atom is possible.
 
 **Reality:** Sodium is strictly monovalent in all its compounds: NaCl, NaOH, Na₂O — a perfect match with the model.
 

@@ -1,10 +1,10 @@
 ---
 title: "Sulfur: The Alchemy of Oxygen. How Two Gases Become a Hard Yellow Stone. Part 19"
-description: "The nineteenth article in the ether dynamics series. We explore the structure of Sulfur-32, the secret of its variable valence (2, 4, 6), and the reason for polymerization into crowns — how eight alpha particles bring partial symmetry back to the third period."
+description: "The nineteenth article in the aether dynamics series. We explore the structure of Sulfur-32, the secret of its variable valence (2, 4, 6), and the reason for polymerization into crowns — how eight alpha particles bring partial symmetry back to the third period."
 pubDate: 2026-02-07
 lang: "en"
 heroImage: "../../../assets/images/sulfur-atom.png"
-tags: ["ether dynamics", "atom", "physics", "Sulfur", "chemistry", "minerals"]
+tags: ["aether dynamics", "atom", "physics", "Sulfur", "chemistry", "minerals"]
 ---
 
 > *"Architecture is frozen music."*
@@ -96,7 +96,7 @@ The number of outward-facing funnels determines the maximum number of chemical b
 
 ### Prediction №2: solving the variable valence puzzle (2, 4, and 6)
 
-School chemistry simply makes students memorize: "Sulfur exhibits valences of 2, 4, and 6." Why are the numbers even? Why do they change? Ether dynamics gives a geometric answer.
+School chemistry simply makes students memorize: "Sulfur exhibits valences of 2, 4, and 6." Why are the numbers even? Why do they change? Aether dynamics gives a geometric answer.
 
 Depending on the strength of its partner, Sulfur activates its ports in stages:
 
@@ -114,7 +114,7 @@ The molecule **S₈** forms — a molecular "crown." This is why Sulfur is a sol
 
 ### Prediction №4: kinship with Oxygen
 
-Sulfur sits directly below Oxygen in the periodic table. Their ether dynamics kinship is clear:
+Sulfur sits directly below Oxygen in the periodic table. Their aether dynamics kinship is clear:
 
 - **Oxygen = 4α** (2 funnels);
 - **Sulfur = 8α** (6 funnels).
@@ -127,7 +127,7 @@ Where Oxygen forms oxides (H₂O, Fe₂O₃), Sulfur forms sulfides (H₂S, FeS�
 
 Sulfur (8α) is the addition of the third column in the third period. No triton "tail," but no ideal symmetry either — that will come only with Argon.
 
-The ether dynamics of the 8α framework brilliantly predicts exactly 6 chemical funnels divided into two functional groups. This allows us to explain **variable valence (2, 4, 6)** without quantum paradoxes — as the step-by-step activation of different ports depending on the strength of the chemical partner.
+The aether dynamics of the 8α framework brilliantly predicts exactly 6 chemical funnels divided into two functional groups. This allows us to explain **variable valence (2, 4, 6)** without quantum paradoxes — as the step-by-step activation of different ports depending on the strength of the chemical partner.
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Atomic Structure. Ether Dynamics. Part 1"
-description: "The first article in a series developing ether dynamics theory. Toroidal vortices, direct observations of electron orbitals, and the question of the alpha particle."
+title: "Atomic Structure. Aether Dynamics. Part 1"
+description: "The first article in a series developing aether dynamics theory. Toroidal vortices, direct observations of electron orbitals, and the question of the alpha particle."
 pubDate: 2026-01-01
 lang: "en"
 heroImage: "../../../assets/images/part1-cover.jpg"
-tags: ["ether dynamics", "atom", "physics", "proton", "electron", "Atsyukovsky"]
+tags: ["aether dynamics", "atom", "physics", "proton", "electron", "Atsyukovsky"]
 ---
 
 > **This is the first article in the series.** More materials will follow, in which we will step by step develop and refine the model of matter structure — from elementary particles to atomic nuclei and molecules. Stay tuned.
@@ -13,9 +13,9 @@ tags: ["ether dynamics", "atom", "physics", "proton", "electron", "Atsyukovsky"]
 
 ## About the Series
 
-This series is dedicated to developing the **theory of ether dynamics** established by Vladimir Akimovich Atsyukovsky (1930–2021) — a Russian engineer and researcher, author of the foundational work *"General Ether Dynamics. Modeling the Structure of Matter and Fields Based on the Concept of a Gas-Like Ether."* In his work, Atsyukovsky treated the ether as a real, viscous, compressible gaseous medium, and elementary particles as stable vortex formations within that medium. His ideas continue to inspire researchers around the world.
+This series is dedicated to developing the **theory of aether dynamics** established by Vladimir Akimovich Atsyukovsky (1930–2021) — a Russian engineer and researcher, author of the foundational work *"General Aether Dynamics. Modeling the Structure of Matter and Fields Based on the Concept of a Gas-Like Aether."* In his work, Atsyukovsky treated the aether as a real, viscous, compressible gaseous medium, and elementary particles as stable vortex formations within that medium. His ideas continue to inspire researchers around the world.
 
-Video lectures by Vladimir Akimovich are available on his [YouTube channel](https://www.youtube.com/@АцюковскийЭфиродинамика). In parallel, Dmitry Losinets does significant work popularizing and developing these ideas — his channel: [Ether Dynamics on YouTube](https://www.youtube.com/@OseniloEther).
+Video lectures by Vladimir Akimovich are available on his [YouTube channel](https://www.youtube.com/@АцюковскийЭфиродинамика). In parallel, Dmitry Losinets does significant work popularizing and developing these ideas — his channel: [Aether Dynamics on YouTube](https://www.youtube.com/@OseniloEther).
 
 The goal of this series is not merely to present existing models, but to critically examine them, identify weaknesses, and propose refinements. This is a living investigation, not a textbook.
 
@@ -29,23 +29,23 @@ I paid particular attention to the work of Dmitry Losinets, who has done enormou
 
 ---
 
-## 🌀 Foundations of Ether Dynamics
+## 🌀 Foundations of Aether Dynamics
 
-Let's start from the beginning. According to the ether dynamics model, protons, neutrons, and electrons are toroidal formations composed of ether.
+Let's start from the beginning. According to the aether dynamics model, protons, neutrons, and electrons are toroidal formations composed of aether.
 
-> *"Ether is a nearly superfluid medium in which particles, fields, and forces emerge as vortex structures."*
+> *"Aether is a nearly superfluid medium in which particles, fields, and forces emerge as vortex structures."*
 >
 > — D. Losinets
 
 This is roughly what a proton might look like:
 
-![Diagram of a proton as a toroidal ether vortex](../../../assets/images/proton1.png)
+![Diagram of a proton as a toroidal aether vortex](../../../assets/images/proton1.png)
 
-> *"The proposed physical model of an elementary particle within the ether dynamics framework is a toroidal ether vortex possessing both ring and toroidal rotation, or a combination of such vortices."*
+> *"The proposed physical model of an elementary particle within the aether dynamics framework is a toroidal aether vortex possessing both ring and toroidal rotation, or a combination of such vortices."*
 >
 > — D. Losinets
 
-A neutron differs from a proton by having an additional layer of ether that significantly changes the particle's properties. This extra layer stops the independent absorption of ether through the inner hole of the torus, which is what ensures the particle's electrical neutrality. However, ether does pass through the neutron's inner hole when there is a pressure difference between opposite sides — according to Bernoulli's law. This is critically important for understanding how atoms are formed.
+A neutron differs from a proton by having an additional layer of aether that significantly changes the particle's properties. This extra layer stops the independent absorption of aether through the inner hole of the torus, which is what ensures the particle's electrical neutrality. However, aether does pass through the neutron's inner hole when there is a pressure difference between opposite sides — according to Bernoulli's law. This is critically important for understanding how atoms are formed.
 
 ---
 
@@ -71,18 +71,18 @@ The red regions in the resulting image correspond to the highest probability of 
 
 Mainstream science interprets these results using quantum mechanics.
 
-### 💡 Ether Dynamics Interpretation (Hypothesis)
+### 💡 Aether Dynamics Interpretation (Hypothesis)
 
-While quantum mechanics describes the electron as a "probability cloud" or wave function with no definite spatial structure, **the ether dynamics model proposes treating it as a real physical object** governed by the laws of gas dynamics.
+While quantum mechanics describes the electron as a "probability cloud" or wave function with no definite spatial structure, **the aether dynamics model proposes treating it as a real physical object** governed by the laws of gas dynamics.
 
 #### Nature and Origin of the Electron
 
-Within this hypothesis, the electron is a toroidal ether vortex. It is not a static formation but a dynamic process: a flow of ether is continuously expelled from the nucleon (nucleus), makes a loop-like motion, and is drawn back in.
+Within this hypothesis, the electron is a toroidal aether vortex. It is not a static formation but a dynamic process: a flow of aether is continuously expelled from the nucleon (nucleus), makes a loop-like motion, and is drawn back in.
 
 This approach changes our understanding of how an atom forms:
 
 - **Generation, not capture.** The electron does not need to arrive from outside to be captured by the nuclear field. It is generated by the nucleus itself.
-- **A unified system.** Since the electron is a flow of ether, it is a direct consequence of the nucleon's internal structure. Once a nucleus forms, it inevitably creates vortex shells (electrons) around itself as a result of the medium's circulation.
+- **A unified system.** Since the electron is a flow of aether, it is a direct consequence of the nucleon's internal structure. Once a nucleus forms, it inevitably creates vortex shells (electrons) around itself as a result of the medium's circulation.
 
 Thus, the electron is the "breath" of the nucleus — its inseparable dynamic component, having significantly lower density and greater volume compared to the nucleon itself.
 
@@ -90,7 +90,7 @@ Thus, the electron is the "breath" of the nucleus — its inseparable dynamic co
 
 The "photo" of the atom presented by the scientists receives a logical explanation through vortex mechanics:
 
-- **Vulnerability of the center.** The image shows that disruption of the structure (electron ejection) is most effective when the central region is targeted. In the toroidal vortex model, the center is the axis of flow circulation — where the densest and fastest ether flow passes, connecting the vortex periphery to the nucleus.
+- **Vulnerability of the center.** The image shows that disruption of the structure (electron ejection) is most effective when the central region is targeted. In the toroidal vortex model, the center is the axis of flow circulation — where the densest and fastest aether flow passes, connecting the vortex periphery to the nucleus.
 - **Stability of the periphery.** The outer part of the torus (the electron "body") has low density. Energy impact on this area passes through the rarefied medium without disrupting the overall stability of the system.
 - **Mechanism of destruction.** A point impact at the geometric center interrupts the main circulation channel (the flow inlet/outlet), causing the entire vortex formation to instantly collapse.
 

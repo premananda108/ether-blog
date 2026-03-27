@@ -1,10 +1,10 @@
 ---
 title: "Atomic Structure. Helium, Lithium, and Beryllium. Part 2"
-description: "The second article in the ether dynamics series. We explore the stability mechanism of the alpha particle, and the structure of helium, lithium, and beryllium through the toroidal vortex model."
+description: "The second article in the aether dynamics series. We explore the stability mechanism of the alpha particle, and the structure of helium, lithium, and beryllium through the toroidal vortex model."
 pubDate: 2026-01-02
 lang: "en"
 heroImage: "../../../assets/images/He.png"
-tags: ["ether dynamics", "atom", "physics", "alpha particle", "helium", "lithium", "beryllium"]
+tags: ["aether dynamics", "atom", "physics", "alpha particle", "helium", "lithium", "beryllium"]
 ---
 
 > *"The highest task of the physicist is to search for those universal laws… from which a picture of the world can be obtained by pure deduction."*
@@ -27,7 +27,7 @@ As is well known, it consists of two protons and two neutrons, and must be as co
 
 ## 🌀 The Stabilization Mechanism
 
-The protons pump ether out of the central region, creating a zone of reduced pressure there. The ether expelled by the protons is spun in opposite directions and drawn back into the alpha particle through the neutrons — forming **"ties"** that hold the entire structure together.
+The protons pump aether out of the central region, creating a zone of reduced pressure there. The aether expelled by the protons is spun in opposite directions and drawn back into the alpha particle through the neutrons — forming **"ties"** that hold the entire structure together.
 
 These "ties" act as a flexible container or hydrodynamic wall, keeping the inner tori together.
 
@@ -35,7 +35,7 @@ These "ties" act as a flexible container or hydrodynamic wall, keeping the inner
 
 In hydrodynamics, this effect is explained by a pressure difference — the **"corset" effect** (pressure gradient):
 
-**Result:** the surrounding ether ("tie") presses forcefully on the proton and neutron flows from all sides, compressing them. The "tie" acts as a hydrodynamic prison — it prevents the tori from drifting apart, rigidly focusing their flows and forcing them to stay together.
+**Result:** the surrounding aether ("tie") presses forcefully on the proton and neutron flows from all sides, compressing them. The "tie" acts as a hydrodynamic prison — it prevents the tori from drifting apart, rigidly focusing their flows and forcing them to stay together.
 
 ---
 
@@ -93,7 +93,7 @@ Now let's turn to **beryllium** (Be, atomic number 4). It has several isotopes, 
 
 ### ⚠️ A Special Case: Beryllium-8
 
-Beryllium-8 is an exceptional case: it decays almost instantaneously. Apparently, in this configuration an ether "tie" capable of binding two α-particles together cannot form.
+Beryllium-8 is an exceptional case: it decays almost instantaneously. Apparently, in this configuration an aether "tie" capable of binding two α-particles together cannot form.
 
 ![Beryllium-8 atom diagram](../../../assets/images/Be8.png)
 

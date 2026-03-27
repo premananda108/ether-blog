@@ -1,17 +1,17 @@
 ---
 title: "Magnesium: The Two-Story Fortress. Building a Solid Foundation for the New Period. Part 15"
-description: "The fifteenth article in the ether dynamics series. We explore the structure of magnesium-24, the reasons for its strength, divalency, and moderate reactivity — how six alpha particles without a remainder create the first structural metal of the third period."
+description: "The fifteenth article in the aether dynamics series. We explore the structure of magnesium-24, the reasons for its strength, divalency, and moderate reactivity — how six alpha particles without a remainder create the first structural metal of the third period."
 pubDate: 2026-02-03
 lang: "en"
 heroImage: "../../../assets/images/magnesium-atom.png"
-tags: ["ether dynamics", "atom", "physics", "magnesium", "chemistry", "metals"]
+tags: ["aether dynamics", "atom", "physics", "magnesium", "chemistry", "metals"]
 ---
 
 > *"Architecture begins where two bricks are carefully joined together."*
 >
 > — Ludwig Mies van der Rohe
 
-In the previous part we witnessed true drama at the atomic level: how a single extra nucleon of Sodium broke open the perfect, airtight fortress of Neon. That nucleon forced an alpha particle to rotate 90°, opening one powerful ether fountain outward.
+In the previous part we witnessed true drama at the atomic level: how a single extra nucleon of Sodium broke open the perfect, airtight fortress of Neon. That nucleon forced an alpha particle to rotate 90°, opening one powerful aether fountain outward.
 
 But nature does not tolerate imbalance for long. What happens if we add one more proton to Sodium?
 
@@ -49,10 +49,10 @@ In Magnesium, one more proton joins that same triton — and a complete **sixth 
 
 **Where does it go?**
 
-The principle of symmetry demands that the new block balance the system. The sixth alpha particle completes the "second floor," and the construction arranges itself in space so that the nucleon ties (ether flows between α-particles) are as rigid as possible.
+The principle of symmetry demands that the new block balance the system. The sixth alpha particle completes the "second floor," and the construction arranges itself in space so that the nucleon ties (aether flows between α-particles) are as rigid as possible.
 
 **The crucial difference from Neon:**
-In Neon (5α) all funnels are closed inward into the cross-shaped structure. In Magnesium the sixth alpha particle, forming a new vertical axis, directs its main funnels **outward** — because there is no free closing node for them inside the construction. At the ends of this axis **two dominant fountains prevail** — ether-release zones. Magnesium acts as a donor on both poles.
+In Neon (5α) all funnels are closed inward into the cross-shaped structure. In Magnesium the sixth alpha particle, forming a new vertical axis, directs its main funnels **outward** — because there is no free closing node for them inside the construction. At the ends of this axis **two dominant fountains prevail** — aether-release zones. Magnesium acts as a donor on both poles.
 
 ---
 
@@ -60,11 +60,11 @@ In Neon (5α) all funnels are closed inward into the cross-shaped structure. In 
 
 ### 1. Two polar "fountains"
 
-The sixth alpha particle creates a distinct vertical axis. Due to the density of the framework the nucleus pushes ether outward — at the ends of the axis two dominant fountains act, ready to transfer the vortex flow to a neighboring atom.
+The sixth alpha particle creates a distinct vertical axis. Due to the density of the framework the nucleus pushes aether outward — at the ends of the axis two dominant fountains act, ready to transfer the vortex flow to a neighboring atom.
 
 ### 2. The return of symmetry
 
-Unlike the "lopsided" Sodium with its protruding triton, the Magnesium nucleus is once again **symmetrical**. The internal ether flows are stabilized; there are no local pressure conflicts.
+Unlike the "lopsided" Sodium with its protruding triton, the Magnesium nucleus is once again **symmetrical**. The internal aether flows are stabilized; there are no local pressure conflicts.
 
 ### 3. A powerful spatial framework
 
@@ -76,7 +76,7 @@ Six alpha particles create a multitude of cross-bracing nucleon ties. The constr
 ![Magnesium-24 atom model](../../../assets/images/magnesium-atom.png)
 ### Prediction №1: valency 2
 
-The construction projects **two fountains** outward at the ends of the vertical axis — exactly two exchange points for the ether flow.
+The construction projects **two fountains** outward at the ends of the vertical axis — exactly two exchange points for the aether flow.
 
 **Reality:** Magnesium is strictly divalent in all its compounds:
 - MgCl₂, MgO, Mg(OH)₂ — all contain exactly two bonds.
@@ -84,7 +84,7 @@ The construction projects **two fountains** outward at the ends of the vertical 
 
 ### Prediction №2: high metal strength
 
-The double axis of bonds forms a **direct, rigid network of ether highways** between atoms. Unlike soft Sodium (one asymmetric bond-"tail"), Magnesium builds bonds along two axes.
+The double axis of bonds forms a **direct, rigid network of aether highways** between atoms. Unlike soft Sodium (one asymmetric bond-"tail"), Magnesium builds bonds along two axes.
 
 **Reality:** Magnesium is a structural metal with high strength at low weight. Magnesium alloys are used in aviation and aerospace — a perfect match with the model.
 
@@ -96,7 +96,7 @@ Sodium is an "overfilled vessel" with an internal imbalance that explodes in wat
 
 ### Prediction №4: good electrical conductivity
 
-Direct, unbent ether channels along the two axes allow the flow to move freely.
+Direct, unbent aether channels along the two axes allow the flow to move freely.
 
 **Reality:** Magnesium is a good electrical conductor — a perfect match.
 

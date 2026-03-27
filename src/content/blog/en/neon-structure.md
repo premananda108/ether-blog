@@ -1,10 +1,10 @@
 ---
 title: "Neon: The Chemical Fortress. When Symmetry Seals Every Gate. Part 13"
-description: "The thirteenth article in the ether dynamics series. We explore the architecture of the neon-20 nucleus, the reasons for its absolute inertness, and the perfect symmetry of 5 alpha particles."
+description: "The thirteenth article in the aether dynamics series. We explore the architecture of the neon-20 nucleus, the reasons for its absolute inertness, and the perfect symmetry of 5 alpha particles."
 pubDate: 2026-01-28
 lang: "en"
 heroImage: "../../../assets/images/neon-structure.png"
-tags: ["ether dynamics", "atom", "physics", "neon", "chemistry", "inertness"]
+tags: ["aether dynamics", "atom", "physics", "neon", "chemistry", "inertness"]
 ---
 
 > *"Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away."*
@@ -65,7 +65,7 @@ This is neon's key distinction. Oxygen has 2 open funnels, fluorine has 1 powerf
 
 ### Perfect pressure balance
 
-The internal ether flows are locked into stable circuits. On the outside there are neither critically low-pressure zones nor high-pressure zones.
+The internal aether flows are locked into stable circuits. On the outside there are neither critically low-pressure zones nor high-pressure zones.
 
 ---
 
@@ -79,7 +79,7 @@ Since no active funnel opens to the outside, neon **forms no** chemical compound
 
 ### Prediction №2: electronegativity undefined
 
-The neon atom has nothing with which to "latch onto" another atom's electrons. It can neither donate nor accept an ether flow.
+The neon atom has nothing with which to "latch onto" another atom's electrons. It can neither donate nor accept an aether flow.
 
 **Reality:** neon is not assigned a value on the Pauling scale — a perfect match.
 

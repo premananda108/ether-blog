@@ -1,8 +1,8 @@
-[https://ether-blog.vercel.app/](https://ether-blog.vercel.app/)
+[https://aether-theory.pages.dev/](https://aether-theory.pages.dev/)
 
-# Ether Blog
+# Aether Blog
 
-**Ether Blog** is a multilingual platform dedicated to exploring alternative physics, specifically the theory of **Ether Dynamics**. It challenges conventional quantum mechanical models by proposing a mechanical, engineering-based approach to the structure of matter.
+**Aether Blog** is a multilingual platform dedicated to exploring alternative physics, specifically the theory of **Aether Dynamics**. It challenges conventional quantum mechanical models by proposing a mechanical, engineering-based approach to the structure of matter.
 
 ## 🚀 Key Features
 
